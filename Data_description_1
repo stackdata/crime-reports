@@ -1,0 +1,14 @@
+
+
+sub-est2016_all__fixed for question DESCRIPTION
+================================================================================
+
+format:
+
+STATE::NAME::STNAM::POPESTIMATE2016
+
+
+- State the number of the state
+- Name the name of the city
+- Stnam the name of the state
+- Popestimate2016 2016 population estimate

@@ -1,0 +1,52 @@
+---
+title: "Capstone Project Proposal"
+author: "Anthony Stachowitz"
+date: "April 27, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project Idea:  HUD (Housing and Urban Development) needs to provide information to low income home builders and developers.
+
+
+#### Central Question
+
+what areas have a lower instance of property crime and size city/town has highest ratio of property crime?
+
+To help answer this central question, I would investigate the following more specific questions:
+
+1. How does the size of a city impact their percentage of property crime vs non property crimes?
+2. How does the geographic position (eastern, central, western) of a state effect the property crime rate?
+3. How does the political leadership of city and state effect the property crime rate?
+4. Is an increase in property crime preceded by an increase in any other type of crime?
+5. Does the information collected provide any trends that can be projected out for the next 10 years?
+6. Is there relationship between the size, location, and political leadership of cities with the highest property crime?
+
+
+#### Client and Motivation
+
+I am looking at this issue from the perspective of the department of housing and urban development when approached by builders and developers requesting information on HUD and low-income housing. HUD provides funding through insured mortgages and low-income housing tax credit projects are regulated by federal and state agencies. Builders and developers need information on the areas where they will be building, and property crime directly effects the bottom line when you need to upkeep properties to the strict standards of the state and federal agencies.
+
+
+#### Data
+
+The data can be found in the GitHub repository at https://github.com/stackdata/crime-reports.  It's in an easily downloadable format, and separated into three .csv files for the crime data and one cvs file for the population data.
+
+
+#### Outline of Approach
+
+1) Classify data as violent, non-violent, and property crimes.
+2) Clean up data and fill any missing data with appropriate information and rename columns appropriately.
+3) Start to explore data through statistical summaries and plots. 
+	  look at relationships between population and different crime data.
+	  look at the relations ships between geography and crime data.
+	  look at the relationship between political leadership and crime data.
+4) Identify relationship connections and use statistical tests to quantify the strength of the relationship.
+
+
+#### Deliverables
+Code along with a report and slide deck of my findings and conclusions.
+

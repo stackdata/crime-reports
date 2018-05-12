@@ -1,0 +1,2272 @@
+Metro_area,Main_cities,Population,Violent_crime,Property_crime
+"Abilene, TX M.S.A.",NA,169885,NA,NA
+NA,"Includes Callahan, Jones, and Taylor Counties",NA,NA,NA
+NA,City of Abilene,122523,546,4269
+NA,Total area actually reporting,1,614,4932
+NA,"Rate per 100,000 inhabitants",NA,361.4,2903.1
+"Akron, OH M.S.A.2",NA,703561,NA,NA
+NA,Includes Portage and Summit Counties,NA,NA,NA
+NA,City of Akron,197257,1216,8646
+NA,Total area actually reporting,0.962,1739,17453
+NA,Estimated total,1,1781,18043
+NA,"Rate per 100,000 inhabitants",NA,253.1,2564.5
+"Albany, GA M.S.A.",NA,152566,NA,NA
+NA,"Includes Baker, Dougherty, Lee, Terrell, and Worth Counties",NA,NA,NA
+NA,City of Albany,74330,873,3620
+NA,Total area actually reporting,0.96,1098,5553
+NA,Estimated total,1,1121,5753
+NA,"Rate per 100,000 inhabitants",NA,734.8,3770.8
+"Albany, OR M.S.A.",NA,122030,NA,NA
+NA,Includes Linn County,NA,NA,NA
+NA,City of Albany,52544,43,1512
+NA,Total area actually reporting,1,139,3283
+NA,"Rate per 100,000 inhabitants",NA,113.9,2690.3
+"Albany-Schenectady-Troy, NY M.S.A.",NA,878166,NA,NA
+NA,"Includes Albany, Rensselaer, Saratoga, Schenectady, and Schoharie Counties",NA,NA,NA
+NA,City of Albany,98617,848,3461
+NA,City of Schenectady,65138,595,2100
+NA,City of Troy,49876,362,1792
+NA,Total area actually reporting,1,2544,17647
+NA,"Rate per 100,000 inhabitants",NA,289.7,2009.5
+"Albuquerque, NM M.S.A.",NA,907140,NA,NA
+NA,"Includes Bernalillo, Sandoval, Torrance, and Valencia Counties",NA,NA,NA
+NA,City of Albuquerque,561560,6245,38528
+NA,Total area actually reporting,1,8173,47976
+NA,"Rate per 100,000 inhabitants",NA,901,5288.7
+"Alexandria, LA M.S.A.",NA,154032,NA,NA
+NA,Includes Grant and Rapides Parishes,NA,NA,NA
+NA,City of Alexandria,47936,883,4091
+NA,Total area actually reporting,0.988,1414,7168
+NA,Estimated total,1,1422,7236
+NA,"Rate per 100,000 inhabitants",NA,923.2,4697.7
+"Allentown-Bethlehem-Easton, PA-NJ M.S.A.3, 4",NA,831770,NA,NA
+NA,"Includes Warren County, NJ and Carbon, Lehigh, and Northampton Counties, PA",NA,NA,NA
+NA,"City of Allentown, PA",120615,552,3337
+NA,"City of Bethlehem, PA3",74869,NA,1487
+NA,Total area actually reporting,0.996,NA,NA
+NA,Estimated total,1,NA,NA
+NA,"Rate per 100,000 inhabitants",NA,NA,NA
+"Altoona, PA M.S.A.",NA,124942,NA,NA
+NA,Includes Blair County,NA,NA,NA
+NA,City of Altoona,45158,156,821
+NA,Total area actually reporting,1,266,1698
+NA,"Rate per 100,000 inhabitants",NA,212.9,1359
+"Amarillo, TX M.S.A.2",NA,263223,NA,NA
+NA,"Includes Armstrong, Carson, Oldham, Potter, and Randall Counties",NA,NA,NA
+NA,City of Amarillo,200141,1414,9472
+NA,Total area actually reporting,1,1560,10352
+NA,"Rate per 100,000 inhabitants",NA,592.7,3932.8
+"Ames, IA M.S.A.",NA,97202,NA,NA
+NA,Includes Story County,NA,NA,NA
+NA,City of Ames,66333,107,1077
+NA,Total area actually reporting,0.93,141,1517
+NA,Estimated total,1,158,1640
+NA,"Rate per 100,000 inhabitants",NA,162.5,1687.2
+"Anchorage, AK M.S.A.",NA,315641,NA,NA
+NA,Includes Anchorage Municipality and Matanuska-Susitna Borough,NA,NA,NA
+NA,City of Anchorage,299097,3422,14649
+NA,Total area actually reporting,1,3519,15626
+NA,"Rate per 100,000 inhabitants",NA,1114.9,4950.6
+"Ann Arbor, MI M.S.A.",NA,361440,NA,NA
+NA,Includes Washtenaw County,NA,NA,NA
+NA,City of Ann Arbor,117688,213,2051
+NA,Total area actually reporting,1,1147,5956
+NA,"Rate per 100,000 inhabitants",NA,317.3,1647.9
+"Anniston-Oxford-Jacksonville, AL M.S.A.",NA,114790,NA,NA
+NA,Includes Calhoun County,NA,NA,NA
+NA,City of Anniston,22205,735,1712
+NA,City of Oxford,17066,63,763
+NA,City of Jacksonville,12150,123,501
+NA,Total area actually reporting,0.993,1023,3743
+NA,Estimated total,1,1027,3768
+NA,"Rate per 100,000 inhabitants",NA,894.7,3282.5
+"Appleton, WI M.S.A.",NA,234069,NA,NA
+NA,Includes Calumet and Outagamie Counties,NA,NA,NA
+NA,City of Appleton,74439,208,1294
+NA,Total area actually reporting,1,354,3110
+NA,"Rate per 100,000 inhabitants",NA,151.2,1328.7
+"Asheville, NC M.S.A.3",NA,451305,NA,NA
+NA,"Includes Buncombe, Haywood, Henderson, and Madison Counties",NA,NA,NA
+NA,City of Asheville,89546,537,4357
+NA,Total area actually reporting,0.995,1079,NA
+NA,Estimated total,1,1085,NA
+NA,"Rate per 100,000 inhabitants",NA,240.4,NA
+"Athens-Clarke County, GA M.S.A.",NA,205004,NA,NA
+NA,"Includes Clarke, Madison, Oconee, and Oglethorpe Counties",NA,NA,NA
+NA,City of Athens-Clarke County,123934,533,4100
+NA,Total area actually reporting,1,700,5757
+NA,"Rate per 100,000 inhabitants",NA,341.5,2808.2
+"Atlanta-Sandy Springs-Roswell, GA M.S.A.",NA,5790619,NA,NA
+NA,"Includes Barrow, Bartow, Butts, Carroll, Cherokee, Clayton, Cobb, Coweta, Dawson, DeKalb, Douglas, Fayette, Forsyth, Fulton, Gwinnett, Haralson, Heard, Henry, Jasper, Lamar, Meriwether, Morgan, Newton, Paulding, Pickens, Pike, Rockdale, Spalding, and Walton Counties",NA,NA,NA
+NA,City of Atlanta,472579,5121,24804
+NA,City of Sandy Springs,107685,117,2837
+NA,City of Roswell,95684,143,1702
+NA,City of Alpharetta,64943,35,1308
+NA,City of Marietta,59516,233,2282
+NA,Total area actually reporting,0.997,23275,173043
+NA,Estimated total,1,23345,173620
+NA,"Rate per 100,000 inhabitants",NA,403.2,2998.3
+"Auburn-Opelika, AL M.S.A",NA,160071,NA,NA
+NA,Includes Lee County,NA,NA,NA
+NA,City of Auburn,63871,210,1125
+NA,City of Opelika,30180,221,1476
+NA,Total area actually reporting,1,916,4137
+NA,"Rate per 100,000 inhabitants",NA,572.2,2584.5
+"Augusta-Richmond County, GA-SC M.S.A.",NA,595180,NA,NA
+NA,"Includes Burke, Columbia, Lincoln, McDuffie, and Richmond Counties, GA and Aiken and Edgefield Counties, SC",NA,NA,NA
+NA,Total area actually reporting,0.999,2039,18754
+NA,Estimated total,1,2040,18761
+NA,"Rate per 100,000 inhabitants",NA,342.8,3152.2
+"Austin-Round Rock, TX M.S.A.",NA,2054651,NA,NA
+NA,"Includes Bastrop, Caldwell, Hays, Travis, and Williamson Counties",NA,NA,NA
+NA,City of Austin,956911,3903,33545
+NA,City of Round Rock,119308,173,2653
+NA,Total area actually reporting,0.999,6510,52484
+NA,Estimated total,1,6511,52501
+NA,"Rate per 100,000 inhabitants",NA,316.9,2555.2
+"Bakersfield, CA M.S.A.",NA,884443,NA,NA
+NA,Includes Kern County,NA,NA,NA
+NA,City of Bakersfield,378788,1821,17138
+NA,Total area actually reporting,1,5128,32570
+NA,"Rate per 100,000 inhabitants",NA,579.8,3682.5
+"Baltimore-Columbia-Towson, MD M.S.A.",NA,2797991,NA,NA
+NA,"Includes Anne Arundel, Baltimore, Carroll, Harford, Howard, and Queen Anne's Counties and Baltimore City",NA,NA,NA
+NA,City of Baltimore,618385,11010,29547
+NA,Total area actually reporting,1,19873,78076
+NA,"Rate per 100,000 inhabitants",NA,710.3,2790.4
+"Bangor, ME M.S.A.",NA,152658,NA,NA
+NA,Includes Penobscot County,NA,NA,NA
+NA,City of Bangor,32264,75,1340
+NA,Total area actually reporting,1,146,2964
+NA,"Rate per 100,000 inhabitants",NA,95.6,1941.6
+"Barnstable Town, MA M.S.A.4",NA,213081,NA,NA
+NA,Includes Barnstable County,NA,NA,NA
+NA,City of Barnstable,43974,199,711
+NA,Total area actually reporting,1,NA,3329
+NA,"Rate per 100,000 inhabitants",NA,NA,1562.3
+"Baton Rouge, LA M.S.A.",NA,833146,NA,NA
+NA,"Includes Ascension, East Baton Rouge, East Feliciana, Iberville, Livingston, Pointe Coupee, St. Helena, West Baton Rouge, and West Feliciana Parishes",NA,NA,NA
+NA,City of Baton Rouge,228389,2143,9934
+NA,Total area actually reporting,0.997,4198,28229
+NA,Estimated total,1,4207,28310
+NA,"Rate per 100,000 inhabitants",NA,505,3398
+"Battle Creek, MI M.S.A",NA,133914,NA,NA
+NA,Includes Calhoun County,NA,NA,NA
+NA,City of Battle Creek,60904,594,2325
+NA,Total area actually reporting,1,1e3,4205
+NA,"Rate per 100,000 inhabitants",NA,746.7,3140.1
+"Bay City, MI M.S.A.",NA,105209,NA,NA
+NA,Includes Bay County,NA,NA,NA
+NA,City of Bay City,33725,205,925
+NA,Total area actually reporting,1,389,1950
+NA,"Rate per 100,000 inhabitants",NA,369.7,1853.5
+"Beaumont-Port Arthur, TX M.S.A.2",NA,408167,NA,NA
+NA,"Includes Hardin, Jefferson, Newton, and Orange Counties",NA,NA,NA
+NA,City of Beaumont,118283,1316,5065
+NA,City of Port Arthur,55510,362,1829
+NA,Total area actually reporting,0.971,2308,10979
+NA,Estimated total,1,2342,11185
+NA,"Rate per 100,000 inhabitants",NA,573.8,2740.3
+"Beckley, WV M.S.A",NA,121287,NA,NA
+NA,Includes Fayette and Raleigh Counties,NA,NA,NA
+NA,City of Beckley,16940,214,1278
+NA,Total area actually reporting,0.957,491,3144
+NA,Estimated total,1,506,3323
+NA,"Rate per 100,000 inhabitants",NA,417.2,2739.8
+"Bellingham, WA M.S.A",NA,215331,NA,NA
+NA,Includes Whatcom County,NA,NA,NA
+NA,City of Bellingham,86005,224,4743
+NA,Total area actually reporting,1,483,6997
+NA,"Rate per 100,000 inhabitants",NA,224.3,3249.4
+"Bend-Redmond, OR M.S.A.",NA,180071,NA,NA
+NA,Includes Deschutes County,NA,NA,NA
+NA,City of Bend,89244,96,2010
+NA,City of Redmond,29164,80,973
+NA,Total area actually reporting,1,273,3909
+NA,"Rate per 100,000 inhabitants",NA,151.6,2170.8
+"Billings, MT M.S.A.",NA,170245,NA,NA
+NA,"Includes Carbon, Golden Valley, and Yellowstone Counties",NA,NA,NA
+NA,City of Billings,111447,514,5216
+NA,Total area actually reporting,0.997,641,6141
+NA,Estimated total,1,642,6156
+NA,"Rate per 100,000 inhabitants",NA,377.1,3616
+"Binghamton, NY M.S.A.",NA,243328,NA,NA
+NA,Includes Broome and Tioga Counties,NA,NA,NA
+NA,City of Binghamton,45780,353,1844
+NA,Total area actually reporting,0.997,703,5165
+NA,Estimated total,1,704,5177
+NA,"Rate per 100,000 inhabitants",NA,289.3,2127.6
+"Bismarck, ND M.S.A.",NA,129489,NA,NA
+NA,"Includes Burleigh, Morton, Oliver, and Sioux Counties",NA,NA,NA
+NA,City of Bismarck,73248,212,2472
+NA,Total area actually reporting,1,380,3676
+NA,"Rate per 100,000 inhabitants",NA,293.5,2838.9
+"Blacksburg-Christiansburg-Radford, VA M.S.A.",NA,181407,NA,NA
+NA,"Includes Floyd, Giles, Montgomery, and Pulaski Counties and Radford City",NA,NA,NA
+NA,City of Blacksburg,44528,43,409
+NA,City of Christiansburg,22134,35,575
+NA,City of Radford,17504,83,316
+NA,Total area actually reporting,1,359,3051
+NA,"Rate per 100,000 inhabitants",NA,197.9,1681.9
+"Bloomington, IL M.S.A.",NA,189092,NA,NA
+NA,Includes DeWitt and McLean Counties,NA,NA,NA
+NA,City of Bloomington,78604,307,1347
+NA,Total area actually reporting,0.947,503,2720
+NA,Estimated total,1,524,2890
+NA,"Rate per 100,000 inhabitants",NA,277.1,1528.4
+"Bloomington, IN M.S.A.",NA,166354,NA,NA
+NA,Includes Monroe and Owen Counties,NA,NA,NA
+NA,City of Bloomington,84772,378,2703
+NA,Total area actually reporting,0.876,491,3967
+NA,Estimated total,1,520,4207
+NA,"Rate per 100,000 inhabitants",NA,312.6,2528.9
+"Boise City, ID M.S.A.",NA,693703,NA,NA
+NA,"Includes Ada, Boise, Canyon, Gem, and Owyhee Counties",NA,NA,NA
+NA,City of Boise,220749,657,5134
+NA,Total area actually reporting,1,1693,12282
+NA,"Rate per 100,000 inhabitants",NA,244.1,1770.5
+"Boston-Cambridge-Newton, MA-NH M.S.A.4",NA,4798657,NA,NA
+NA,"Includes the Metropolitan Divisions of Boston, MA; Cambridge-Newton-Framingham, MA; and Rockingham County-Strafford County, NH",NA,NA,NA
+NA,"City of Boston, MA",673880,4767,14489
+NA,"City of Cambridge, MA",111030,294,2369
+NA,"City of Newton, MA",89116,46,642
+NA,"City of Framingham, MA",71422,211,831
+NA,"City of Waltham, MA",63613,99,688
+NA,Total area actually reporting,0.98,NA,65828
+NA,Estimated total,1,NA,67153
+NA,"Rate per 100,000 inhabitants",NA,NA,1399.4
+"Boston, MA M.D.4",NA,1994514,NA,NA
+NA,"Includes Norfolk, Plymouth, and Suffolk Counties",NA,NA,NA
+NA,Total area actually reporting,0.957,NA,30970
+NA,Estimated total,1,NA,32158
+NA,"Rate per 100,000 inhabitants",NA,NA,1612.3
+"Cambridge-Newton-Framingham, MA M.D.",NA,2373065,NA,NA
+NA,Includes Essex and Middlesex Counties,NA,NA,NA
+NA,Total area actually reporting,0.997,5562,29097
+NA,Estimated total,1,5582,29193
+NA,"Rate per 100,000 inhabitants",NA,235.2,1230.2
+"Rockingham County-Strafford County, NH M.D.",NA,431078,NA,NA
+NA,Includes Rockingham and Strafford Counties,NA,NA,NA
+NA,Total area actually reporting,0.992,632,5761
+NA,Estimated total,1,637,5802
+NA,"Rate per 100,000 inhabitants",NA,147.8,1345.9
+"Boulder, CO M.S.A.",NA,324108,NA,NA
+NA,Includes Boulder County,NA,NA,NA
+NA,City of Boulder,109189,258,3275
+NA,Total area actually reporting,1,766,7501
+NA,"Rate per 100,000 inhabitants",NA,236.3,2314.4
+"Bowling Green, KY M.S.A.",NA,170204,NA,NA
+NA,"Includes Allen, Butler, Edmonson, and Warren Counties",NA,NA,NA
+NA,City of Bowling Green,64561,204,2773
+NA,Total area actually reporting,1,280,3664
+NA,"Rate per 100,000 inhabitants",NA,164.5,2152.7
+"Bremerton-Silverdale, WA M.S.A.",NA,262877,NA,NA
+NA,Includes Kitsap County,NA,NA,NA
+NA,City of Bremerton,39862,198,1576
+NA,Total area actually reporting,1,680,6993
+NA,"Rate per 100,000 inhabitants",NA,258.7,2660.2
+"Bridgeport-Stamford-Norwalk, CT M.S.A.",NA,935988,NA,NA
+NA,Includes Fairfield County,NA,NA,NA
+NA,City of Bridgeport,148180,1115,3258
+NA,City of Stamford,130116,351,2073
+NA,City of Norwalk,88989,295,1427
+NA,City of Danbury,85335,161,1363
+NA,City of Stratford,52841,67,1160
+NA,Total area actually reporting,1,2151,13423
+NA,"Rate per 100,000 inhabitants",NA,229.8,1434.1
+"Brownsville-Harlingen, TX M.S.A.",NA,423865,NA,NA
+NA,Includes Cameron County,NA,NA,NA
+NA,City of Brownsville,185583,448,6028
+NA,City of Harlingen,65913,281,2590
+NA,Total area actually reporting,1,1607,12101
+NA,"Rate per 100,000 inhabitants",NA,379.1,2854.9
+"Brunswick, GA M.S.A.",NA,116597,NA,NA
+NA,"Includes Brantley, Glynn, and McIntosh Counties",NA,NA,NA
+NA,City of Brunswick,16309,164,775
+NA,Total area actually reporting,1,434,3520
+NA,"Rate per 100,000 inhabitants",NA,372.2,3018.9
+"Buffalo-Cheektowaga-Niagara Falls, NY M.S.A.",NA,1127663,NA,NA
+NA,Includes Erie and Niagara Counties,NA,NA,NA
+NA,City of Buffalo,257446,2857,10599
+NA,City of Cheektowaga Town,78100,181,2523
+NA,City of Niagara Falls,48675,565,2402
+NA,Total area actually reporting,1,4635,27260
+NA,"Rate per 100,000 inhabitants",NA,411,2417.4
+"Burlington, NC M.S.A.",NA,159667,NA,NA
+NA,Includes Alamance County,NA,NA,NA
+NA,City of Burlington,52760,392,1833
+NA,Total area actually reporting,1,625,3744
+NA,"Rate per 100,000 inhabitants",NA,391.4,2344.9
+"California-Lexington Park, MD M.S.A.",NA,111930,NA,NA
+NA,Includes St. Mary's County,NA,NA,NA
+NA,Total area actually reporting,1,227,2075
+NA,"Rate per 100,000 inhabitants",NA,202.8,1853.8
+"Cape Coral-Fort Myers, FL M.S.A.",NA,720949,NA,NA
+NA,Includes Lee County,NA,NA,NA
+NA,City of Cape Coral,179631,224,3081
+NA,City of Fort Myers,76579,947,2163
+NA,Total area actually reporting,1,2562,11637
+NA,"Rate per 100,000 inhabitants",NA,355.4,1614.1
+"Cape Girardeau, MO-IL M.S.A.",NA,97631,NA,NA
+NA,"Includes Alexander County, IL and Bollinger and Cape Girardeau Counties, MO",NA,NA,NA
+NA,"City of Cape Girardeau, MO",39738,236,1628
+NA,Total area actually reporting,1,469,2342
+NA,"Rate per 100,000 inhabitants",NA,480.4,2398.8
+"Carson City, NV M.S.A.",NA,54605,NA,NA
+NA,Includes Carson City,NA,NA,NA
+NA,Total area actually reporting,1,157,995
+NA,"Rate per 100,000 inhabitants",NA,287.5,1822.2
+"Casper, WY M.S.A.",NA,82870,NA,NA
+NA,Includes Natrona County,NA,NA,NA
+NA,City of Casper,61343,70,1669
+NA,Total area actually reporting,1,168,2081
+NA,"Rate per 100,000 inhabitants",NA,202.7,2511.2
+"Cedar Rapids, IA M.S.A.4",NA,267187,NA,NA
+NA,"Includes Benton, Jones, and Linn Counties",NA,NA,NA
+NA,City of Cedar Rapids,131181,387,5019
+NA,Total area actually reporting,0.949,566,NA
+NA,Estimated total,1,589,NA
+NA,"Rate per 100,000 inhabitants",NA,220.4,NA
+"Chambersburg-Waynesboro, PA M.S.A.",NA,153940,NA,NA
+NA,Includes Franklin County,NA,NA,NA
+NA,City of Chambersburg,20770,87,630
+NA,City of Waynesboro,10902,29,266
+NA,Total area actually reporting,1,221,2281
+NA,"Rate per 100,000 inhabitants",NA,143.6,1481.7
+"Champaign-Urbana, IL M.S.A.",NA,239184,NA,NA
+NA,"Includes Champaign, Ford, and Piatt Counties",NA,NA,NA
+NA,City of Champaign,87071,625,2838
+NA,City of Urbana,42461,162,1543
+NA,Total area actually reporting,0.99,1048,6108
+NA,Estimated total,1,1053,6147
+NA,"Rate per 100,000 inhabitants",NA,440.2,2570
+"Charleston, WV M.S.A.",NA,218036,NA,NA
+NA,"Includes Boone, Clay, and Kanawha Counties",NA,NA,NA
+NA,City of Charleston,49429,767,3939
+NA,Total area actually reporting,0.916,1293,8585
+NA,Estimated total,1,1341,9056
+NA,"Rate per 100,000 inhabitants",NA,615,4153.4
+"Charleston-North Charleston, SC M.S.A.",NA,762454,NA,NA
+NA,"Includes Berkeley, Charleston, and Dorchester Counties",NA,NA,NA
+NA,City of Charleston,135153,408,3359
+NA,City of North Charleston,110490,993,6218
+NA,Total area actually reporting,0.995,3170,21566
+NA,Estimated total,1,3188,21699
+NA,"Rate per 100,000 inhabitants",NA,418.1,2845.9
+"Charlottesville, VA M.S.A.",NA,230398,NA,NA
+NA,"Includes Albemarle, Buckingham, Fluvanna, Greene, and Nelson Counties and Charlottesville City",NA,NA,NA
+NA,City of Charlottesville,46979,245,1228
+NA,Total area actually reporting,1,457,3369
+NA,"Rate per 100,000 inhabitants",NA,198.4,1462.3
+"Chattanooga, TN-GA M.S.A.",NA,551407,NA,NA
+NA,"Includes Catoosa, Dade, and Walker Counties, GA and Hamilton, Marion, and Sequatchie Counties, TN",NA,NA,NA
+NA,"City of Chattanooga, TN",177801,1819,9752
+NA,Total area actually reporting,0.975,2938,17576
+NA,Estimated total,1,2982,17926
+NA,"Rate per 100,000 inhabitants",NA,540.8,3251
+"Cheyenne, WY M.S.A.",NA,97275,NA,NA
+NA,Includes Laramie County,NA,NA,NA
+NA,City of Cheyenne,64046,172,2427
+NA,Total area actually reporting,1,245,2939
+NA,"Rate per 100,000 inhabitants",NA,251.9,3021.3
+"Chicago-Naperville-Elgin, IL-IN-WI M.S.A.2",NA,9523022,NA,NA
+NA,"Includes the Metropolitan Divisions of Chicago-Naperville-Arlington Heights, IL; Elgin, IL; Gary, IN; and Lake County-Kenosha County, IL-WI",NA,NA,NA
+NA,"City of Chicago, IL",2725153,30126,86960
+NA,"City of Naperville, IL",148070,92,1587
+NA,"City of Elgin, IL",112886,236,1565
+NA,"City of Gary, IN",76556,460,3617
+NA,"City of Arlington Heights, IL",76077,58,722
+NA,"City of Evanston, IL",75716,130,1671
+NA,"City of Schaumburg, IL",74774,74,1685
+NA,"City of Skokie, IL",64819,158,1557
+NA,"City of Des Plaines, IL",58726,45,537
+NA,"City of Hoffman Estates, IL",52177,55,429
+NA,Total area actually reporting,0.969,41539,192468
+NA,Estimated total,1,42187,198228
+NA,"Rate per 100,000 inhabitants",NA,443,2081.6
+"Chicago-Naperville-Arlington Heights, IL M.D.2",NA,7318619,NA,NA
+NA,"Includes Cook, DuPage, Grundy, Kendall, McHenry, and Will Counties",NA,NA,NA
+NA,Total area actually reporting,0.98,37221,156027
+NA,Estimated total,1,37530,158528
+NA,"Rate per 100,000 inhabitants",NA,512.8,2166.1
+"Elgin, IL M.D.",NA,634927,NA,NA
+NA,Includes DeKalb and Kane Counties,NA,NA,NA
+NA,Total area actually reporting,0.983,1202,8755
+NA,Estimated total,1,1225,8943
+NA,"Rate per 100,000 inhabitants",NA,192.9,1408.5
+"Gary, IN M.D.",NA,700547,NA,NA
+NA,"Includes Jasper, Lake, Newton, and Porter Counties",NA,NA,NA
+NA,Total area actually reporting,0.846,1652,15338
+NA,Estimated total,1,1908,17918
+NA,"Rate per 100,000 inhabitants",NA,272.4,2557.7
+"Lake County-Kenosha County, IL-WI M.D.",NA,868929,NA,NA
+NA,"Includes Lake County, IL and Kenosha County, WI",NA,NA,NA
+NA,Total area actually reporting,0.967,1464,12348
+NA,Estimated total,1,1524,12839
+NA,"Rate per 100,000 inhabitants",NA,175.4,1477.6
+"Chico, CA M.S.A.",NA,224973,NA,NA
+NA,Includes Butte County,NA,NA,NA
+NA,City of Chico,91122,293,3290
+NA,Total area actually reporting,1,790,7307
+NA,"Rate per 100,000 inhabitants",NA,351.2,3247.9
+"Cincinnati, OH-KY-IN M.S.A.",NA,2163182,NA,NA
+NA,"Includes Dearborn, Ohio, and Union Counties, IN; Boone, Bracken, Campbell, Gallatin, Grant, Kenton, and Pendleton Counties, KY; and Brown, Butler, Clermont, Hamilton, and Warren Counties, OH",NA,NA,NA
+NA,"City of Cincinnati, OH",298880,2720,15382
+NA,Total area actually reporting,0.942,5377,54312
+NA,Estimated total,1,5566,56602
+NA,"Rate per 100,000 inhabitants",NA,257.3,2616.6
+"Clarksville, TN-KY M.S.A.",NA,285097,NA,NA
+NA,"Includes Christian and Trigg Counties, KY and Montgomery County, TN",NA,NA,NA
+NA,"City of Clarksville, TN",152526,935,3853
+NA,Total area actually reporting,1,1219,6311
+NA,"Rate per 100,000 inhabitants",NA,427.6,2213.6
+"Cleveland, TN M.S.A.",NA,121862,NA,NA
+NA,Includes Bradley and Polk Counties,NA,NA,NA
+NA,City of Cleveland,44423,384,2704
+NA,Total area actually reporting,1,624,4102
+NA,"Rate per 100,000 inhabitants",NA,512.1,3366.1
+"Cleveland-Elyria, OH M.S.A.",NA,2055254,NA,NA
+NA,"Includes Cuyahoga, Geauga, Lake, Lorain, and Medina Counties",NA,NA,NA
+NA,City of Cleveland,386227,6299,20533
+NA,City of Elyria,53633,161,1483
+NA,Total area actually reporting,0.853,8691,42264
+NA,Estimated total,1,9156,48994
+NA,"Rate per 100,000 inhabitants",NA,445.5,2383.8
+"Coeur d'Alene, ID M.S.A.",NA,153701,NA,NA
+NA,Includes Kootenai County,NA,NA,NA
+NA,City of Coeur d'Alene,50155,173,1418
+NA,Total area actually reporting,1,356,3568
+NA,"Rate per 100,000 inhabitants",NA,231.6,2321.4
+"College Station-Bryan, TX M.S.A.",NA,252572,NA,NA
+NA,"Includes Brazos, Burleson, and Robertson Counties",NA,NA,NA
+NA,City of College Station,110785,245,2290
+NA,City of Bryan,83286,420,2552
+NA,Total area actually reporting,0.995,833,5969
+NA,Estimated total,1,837,6002
+NA,"Rate per 100,000 inhabitants",NA,331.4,2376.4
+"Colorado Springs, CO M.S.A.",NA,707431,NA,NA
+NA,Includes El Paso and Teller Counties,NA,NA,NA
+NA,City of Colorado Springs,464113,2301,16526
+NA,Total area actually reporting,0.999,2861,20132
+NA,Estimated total,1,2862,20150
+NA,"Rate per 100,000 inhabitants",NA,404.6,2848.3
+"Columbia, MO M.S.A.",NA,177168,NA,NA
+NA,Includes Boone County,NA,NA,NA
+NA,City of Columbia,121143,517,3245
+NA,Total area actually reporting,1,674,4230
+NA,"Rate per 100,000 inhabitants",NA,380.4,2387.6
+"Columbia, SC M.S.A.",NA,820037,NA,NA
+NA,"Includes Calhoun, Fairfield, Kershaw, Lexington, Richland, and Saluda Counties",NA,NA,NA
+NA,City of Columbia,134489,1116,7374
+NA,Total area actually reporting,1,4834,28907
+NA,"Rate per 100,000 inhabitants",NA,589.5,3525.1
+"Columbus, GA-AL M.S.A.",NA,316990,NA,NA
+NA,"Includes Russell County, AL and Chattahoochee, Harris, Marion, and Muscogee Counties, GA",NA,NA,NA
+NA,"City of Columbus, GA",202338,1218,9625
+NA,Total area actually reporting,0.998,1639,12060
+NA,Estimated total,1,1643,12080
+NA,"Rate per 100,000 inhabitants",NA,518.3,3810.8
+"Columbus, IN M.S.A.",NA,81884,NA,NA
+NA,Includes Bartholomew County,NA,NA,NA
+NA,City of Columbus,47222,34,1943
+NA,Total area actually reporting,1,67,2511
+NA,"Rate per 100,000 inhabitants",NA,81.8,3066.5
+"Columbus, OH M.S.A.2",NA,2043036,NA,NA
+NA,"Includes Delaware, Fairfield, Franklin, Hocking, Licking, Madison, Morrow, Perry, Pickaway, and Union Counties",NA,NA,NA
+NA,City of Columbus,862515,4500,35106
+NA,Total area actually reporting,0.913,5585,56162
+NA,Estimated total,1,5820,59476
+NA,"Rate per 100,000 inhabitants",NA,284.9,2911.2
+"Corpus Christi, TX M.S.A.",NA,456121,NA,NA
+NA,"Includes Aransas, Nueces, and San Patricio Counties",NA,NA,NA
+NA,City of Corpus Christi,327948,2328,12198
+NA,Total area actually reporting,0.979,2981,16035
+NA,Estimated total,1,3007,16273
+NA,"Rate per 100,000 inhabitants",NA,659.3,3567.7
+"Corvallis, OR M.S.A.",NA,88515,NA,NA
+NA,Includes Benton County,NA,NA,NA
+NA,City of Corvallis,56061,75,1557
+NA,Total area actually reporting,1,113,2256
+NA,"Rate per 100,000 inhabitants",NA,127.7,2548.7
+"Crestview-Fort Walton Beach-Destin, FL M.S.A.",NA,268298,NA,NA
+NA,Includes Okaloosa and Walton Counties,NA,NA,NA
+NA,City of Crestview,23749,121,897
+NA,City of Fort Walton Beach,22314,67,611
+NA,Total area actually reporting,0.997,1023,6303
+NA,Estimated total,1,1026,6328
+NA,"Rate per 100,000 inhabitants",NA,382.4,2358.6
+"Cumberland, MD-WV M.S.A.",NA,98752,NA,NA
+NA,"Includes Allegany County, MD and Mineral County, WV",NA,NA,NA
+NA,"City of Cumberland, MD",19995,177,1218
+NA,Total area actually reporting,0.947,299,2333
+NA,Estimated total,1,314,2514
+NA,"Rate per 100,000 inhabitants",NA,318,2545.8
+"Dallas-Fort Worth-Arlington, TX M.S.A.2",NA,7219989,NA,NA
+NA,Includes the Metropolitan Divisions of Dallas-Plano-Irving and Fort Worth-Arlington,NA,NA,NA
+NA,City of Dallas,1320939,10071,44910
+NA,City of Fort Worth,851849,4483,28124
+NA,City of Arlington,392666,2188,12383
+NA,City of Plano,288242,399,5479
+NA,City of Irving,240765,521,6490
+NA,City of Denton,134054,349,3025
+NA,City of Richardson,113216,156,2473
+NA,Total area actually reporting,0.998,25941,178513
+NA,Estimated total,1,25971,178781
+NA,"Rate per 100,000 inhabitants",NA,359.7,2476.2
+"Dallas-Plano-Irving, TX M.D.",NA,4791249,NA,NA
+NA,"Includes Collin, Dallas, Denton, Ellis, Hunt, Kaufman, and Rockwall Counties",NA,NA,NA
+NA,Total area actually reporting,0.998,17064,115705
+NA,Estimated total,1,17092,115952
+NA,"Rate per 100,000 inhabitants",NA,356.7,2420.1
+"Fort Worth-Arlington, TX M.D.2",NA,2428740,NA,NA
+NA,"Includes Hood, Johnson, Parker, Somervell, Tarrant, and Wise Counties",NA,NA,NA
+NA,Total area actually reporting,0.999,8877,62808
+NA,Estimated total,1,8879,62829
+NA,"Rate per 100,000 inhabitants",NA,365.6,2586.9
+"Dalton, GA M.S.A.",NA,143925,NA,NA
+NA,Includes Murray and Whitfield Counties,NA,NA,NA
+NA,City of Dalton,33989,113,1103
+NA,Total area actually reporting,0.996,988,4880
+NA,Estimated total,1,991,4905
+NA,"Rate per 100,000 inhabitants",NA,688.6,3408
+"Danville, IL M.S.A.",NA,78439,NA,NA
+NA,Includes Vermilion County,NA,NA,NA
+NA,City of Danville,31931,502,1894
+NA,Total area actually reporting,0.984,631,2720
+NA,Estimated total,1,634,2741
+NA,"Rate per 100,000 inhabitants",NA,808.3,3494.4
+"Davenport-Moline-Rock Island, IA-IL M.S.A.4",NA,383016,NA,NA
+NA,"Includes Henry, Mercer, and Rock Island Counties, IL and Scott County, IA",NA,NA,NA
+NA,"City of Davenport, IA",103118,750,5001
+NA,"City of Moline, IL",42517,196,1459
+NA,"City of Rock Island, IL",38543,158,1042
+NA,Total area actually reporting,0.986,1496,NA
+NA,Estimated total,1,1506,NA
+NA,"Rate per 100,000 inhabitants",NA,393.2,NA
+"Dayton, OH M.S.A.2",NA,800013,NA,NA
+NA,"Includes Greene, Miami, and Montgomery Counties",NA,NA,NA
+NA,City of Dayton,140260,1402,7235
+NA,Total area actually reporting,0.969,2453,22891
+NA,Estimated total,1,2491,23434
+NA,"Rate per 100,000 inhabitants",NA,311.4,2929.2
+"Decatur, AL M.S.A.",NA,152077,NA,NA
+NA,Includes Lawrence and Morgan Counties,NA,NA,NA
+NA,City of Decatur,55374,154,2600
+NA,Total area actually reporting,0.993,346,3812
+NA,Estimated total,1,352,3848
+NA,"Rate per 100,000 inhabitants",NA,231.5,2530.3
+"Decatur, IL M.S.A.",NA,106100,NA,NA
+NA,Includes Macon County,NA,NA,NA
+NA,City of Decatur,72694,392,2657
+NA,Total area actually reporting,0.99,434,2954
+NA,Estimated total,1,436,2973
+NA,"Rate per 100,000 inhabitants",NA,410.9,2802.1
+"Deltona-Daytona Beach-Ormond Beach, FL M.S.A.",NA,631296,NA,NA
+NA,Includes Flagler and Volusia Counties,NA,NA,NA
+NA,City of Daytona Beach,65495,814,4197
+NA,City of Ormond Beach,41325,202,1602
+NA,Total area actually reporting,1,2471,18058
+NA,"Rate per 100,000 inhabitants",NA,391.4,2860.5
+"Denver-Aurora-Lakewood, CO M.S.A.",NA,2868232,NA,NA
+NA,"Includes Adams, Arapahoe, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, Jefferson, and Park Counties",NA,NA,NA
+NA,City of Denver,699259,4597,25101
+NA,City of Aurora,366477,1939,11213
+NA,City of Lakewood,154553,875,8455
+NA,City of Broomfield,66953,36,1610
+NA,Total area actually reporting,0.999,11149,84650
+NA,Estimated total,1,11156,84729
+NA,"Rate per 100,000 inhabitants",NA,389,2954
+"Des Moines-West Des Moines, IA M.S.A.3",NA,632763,NA,NA
+NA,"Includes Dallas, Guthrie, Madison, Polk, and Warren Counties",NA,NA,NA
+NA,City of Des Moines,211501,1497,8881
+NA,City of West Des Moines,65631,149,1513
+NA,Total area actually reporting,1,2352,NA
+NA,"Rate per 100,000 inhabitants",NA,371.7,NA
+"Detroit-Warren-Dearborn, MI M.S.A.",NA,4302722,NA,NA
+NA,Includes the Metropolitan Divisions of Detroit-Dearborn-Livonia and Warren-Troy-Farmington Hills,NA,NA,NA
+NA,City of Detroit,669673,13705,31630
+NA,City of Warren,135620,691,3521
+NA,City of Dearborn,94646,348,2791
+NA,City of Livonia,94226,141,1694
+NA,City of Troy,83743,78,1336
+NA,City of Farmington Hills,81649,77,1050
+NA,City of Southfield,73438,195,2158
+NA,City of Taylor,61290,372,1495
+NA,City of Pontiac,60003,749,1425
+NA,City of Novi,59441,32,661
+NA,Total area actually reporting,0.999,23903,89693
+NA,Estimated total,1,23907,89714
+NA,"Rate per 100,000 inhabitants",NA,555.6,2085.1
+"Detroit-Dearborn-Livonia, MI M.D.",NA,1747582,NA,NA
+NA,Includes Wayne County,NA,NA,NA
+NA,Total area actually reporting,1,18073,54744
+NA,"Rate per 100,000 inhabitants",NA,1034.2,3132.6
+"Warren-Troy-Farmington Hills, MI M.D.",NA,2555140,NA,NA
+NA,"Includes Lapeer, Livingston, Macomb, Oakland, and St. Clair Counties",NA,NA,NA
+NA,Total area actually reporting,0.999,5830,34949
+NA,Estimated total,1,5834,34970
+NA,"Rate per 100,000 inhabitants",NA,228.3,1368.6
+"Dothan, AL M.S.A.4",NA,148284,NA,NA
+NA,"Includes Geneva, Henry, and Houston Counties",NA,NA,NA
+NA,City of Dothan4,67835,NA,2758
+NA,Total area actually reporting,0.994,NA,4221
+NA,Estimated total,1,NA,4248
+NA,"Rate per 100,000 inhabitants",NA,NA,2864.8
+"Dover, DE M.S.A.",NA,175090,NA,NA
+NA,Includes Kent County,NA,NA,NA
+NA,City of Dover,37824,307,1880
+NA,Total area actually reporting,1,829,4399
+NA,"Rate per 100,000 inhabitants",NA,473.5,2512.4
+"Dubuque, IA M.S.A.",NA,97625,NA,NA
+NA,Includes Dubuque County,NA,NA,NA
+NA,City of Dubuque,59026,210,1832
+NA,Total area actually reporting,1,237,2054
+NA,"Rate per 100,000 inhabitants",NA,242.8,2104
+"Duluth, MN-WI M.S.A.",NA,279220,NA,NA
+NA,"Includes Carlton and St. Louis Counties, MN and Douglas County, WI",NA,NA,NA
+NA,"City of Duluth, MN",86090,312,3827
+NA,Total area actually reporting,1,642,8915
+NA,"Rate per 100,000 inhabitants",NA,229.9,3192.8
+"East Stroudsburg, PA M.S.A.",NA,165226,NA,NA
+NA,Includes Monroe County,NA,NA,NA
+NA,Total area actually reporting,1,416,3130
+NA,"Rate per 100,000 inhabitants",NA,251.8,1894.4
+"Eau Claire, WI M.S.A.2",NA,166178,NA,NA
+NA,Includes Chippewa and Eau Claire Counties,NA,NA,NA
+NA,City of Eau Claire,68084,141,1818
+NA,Total area actually reporting,1,230,2788
+NA,"Rate per 100,000 inhabitants",NA,138.4,1677.7
+"El Centro, CA M.S.A.",NA,180066,NA,NA
+NA,Includes Imperial County,NA,NA,NA
+NA,City of El Centro,44213,205,2314
+NA,Total area actually reporting,0.959,676,5195
+NA,Estimated total,1,701,5372
+NA,"Rate per 100,000 inhabitants",NA,389.3,2983.4
+"Elizabethtown-Fort Knox, KY M.S.A.",NA,148206,NA,NA
+NA,"Includes Hardin, Larue, and Meade Counties",NA,NA,NA
+NA,City of Elizabethtown,29821,68,476
+NA,Total area actually reporting,1,181,1479
+NA,"Rate per 100,000 inhabitants",NA,122.1,997.9
+"Elmira, NY M.S.A.",NA,86124,NA,NA
+NA,Includes Chemung County,NA,NA,NA
+NA,City of Elmira,27995,97,1074
+NA,Total area actually reporting,1,172,1892
+NA,"Rate per 100,000 inhabitants",NA,199.7,2196.8
+"El Paso, TX M.S.A.",NA,843018,NA,NA
+NA,Includes El Paso and Hudspeth Counties,NA,NA,NA
+NA,City of El Paso,687193,2682,12357
+NA,Total area actually reporting,0.999,3076,14413
+NA,Estimated total,1,3080,14442
+NA,"Rate per 100,000 inhabitants",NA,365.4,1713.1
+"Enid, OK M.S.A.",NA,63828,NA,NA
+NA,Includes Garfield County,NA,NA,NA
+NA,City of Enid,52240,214,2041
+NA,Total area actually reporting,1,233,2220
+NA,"Rate per 100,000 inhabitants",NA,365,3478.1
+"Erie, PA M.S.A.",NA,276700,NA,NA
+NA,Includes Erie County,NA,NA,NA
+NA,City of Erie,99019,353,2278
+NA,Total area actually reporting,1,594,5307
+NA,"Rate per 100,000 inhabitants",NA,214.7,1918
+"Eugene, OR M.S.A.2",NA,367343,NA,NA
+NA,Includes Lane County,NA,NA,NA
+NA,City of Eugene,164883,602,6317
+NA,Total area actually reporting,0.991,1172,12137
+NA,Estimated total,1,1178,12222
+NA,"Rate per 100,000 inhabitants",NA,320.7,3327.1
+"Evansville, IN-KY M.S.A.",NA,315875,NA,NA
+NA,"Includes Posey, Vanderburgh, and Warrick Counties, IN and Henderson County, KY",NA,NA,NA
+NA,City of Evansville,119908,762,5881
+NA,Total area actually reporting,0.979,1127,8462
+NA,Estimated total,1,1144,8644
+NA,"Rate per 100,000 inhabitants",NA,362.2,2736.5
+"Fairbanks, AK M.S.A.",NA,34657,NA,NA
+NA,Includes Fairbanks North Star Borough,NA,NA,NA
+NA,City of Fairbanks,32456,223,1350
+NA,Total area actually reporting,1,232,1517
+NA,"Rate per 100,000 inhabitants",NA,669.4,4377.2
+"Fargo, ND-MN M.S.A.",NA,234910,NA,NA
+NA,"Includes Clay County, MN and Cass County, ND",NA,NA,NA
+NA,"City of Fargo, ND",121217,467,3843
+NA,Total area actually reporting,1,635,5807
+NA,"Rate per 100,000 inhabitants",NA,270.3,2472
+"Farmington, NM M.S.A.",NA,116108,NA,NA
+NA,Includes San Juan County,NA,NA,NA
+NA,City of Farmington,42270,293,1857
+NA,Total area actually reporting,1,1100,3174
+NA,"Rate per 100,000 inhabitants",NA,947.4,2733.7
+"Fayetteville, NC M.S.A.",NA,378409,NA,NA
+NA,Includes Cumberland and Hoke Counties,NA,NA,NA
+NA,City of Fayetteville,202200,1531,9201
+NA,Total area actually reporting,1,1982,13168
+NA,"Rate per 100,000 inhabitants",NA,523.8,3479.8
+"Flagstaff, AZ M.S.A.",NA,140312,NA,NA
+NA,Includes Coconino County,NA,NA,NA
+NA,City of Flagstaff,71179,265,2856
+NA,Total area actually reporting,1,512,4197
+NA,"Rate per 100,000 inhabitants",NA,364.9,2991.2
+"Flint, MI M.S.A.",NA,407879,NA,NA
+NA,Includes Genesee County,NA,NA,NA
+NA,City of Flint,97548,1545,3323
+NA,Total area actually reporting,1,2562,9083
+NA,"Rate per 100,000 inhabitants",NA,628.1,2226.9
+"Florence, SC M.S.A.",NA,207007,NA,NA
+NA,Includes Darlington and Florence Counties,NA,NA,NA
+NA,City of Florence,38382,408,2563
+NA,Total area actually reporting,0.994,1320,8787
+NA,Estimated total,1,1326,8834
+NA,"Rate per 100,000 inhabitants",NA,640.6,4267.5
+"Florence-Muscle Shoals, AL M.S.A.",NA,146537,NA,NA
+NA,Includes Colbert and Lauderdale Counties,NA,NA,NA
+NA,City of Florence,40160,196,1400
+NA,City of Muscle Shoals,13810,54,588
+NA,Total area actually reporting,0.998,428,3197
+NA,Estimated total,1,429,3207
+NA,"Rate per 100,000 inhabitants",NA,292.8,2188.5
+"Fond du Lac, WI M.S.A.",NA,101860,NA,NA
+NA,Includes Fond du Lac County,NA,NA,NA
+NA,City of Fond du Lac,42907,136,957
+NA,Total area actually reporting,1,184,1377
+NA,"Rate per 100,000 inhabitants",NA,180.6,1351.9
+"Fort Collins, CO M.S.A.",NA,340447,NA,NA
+NA,Includes Larimer County,NA,NA,NA
+NA,City of Fort Collins,164670,342,4036
+NA,Total area actually reporting,1,712,7524
+NA,"Rate per 100,000 inhabitants",NA,209.1,2210
+"Fort Smith, AR-OK M.S.A.",NA,279567,NA,NA
+NA,"Includes Crawford and Sebastian Counties, AR and Le Flore and Sequoyah Counties, OK",NA,NA,NA
+NA,"City of Fort Smith, AR",88573,712,5229
+NA,Total area actually reporting,0.997,1388,9605
+NA,Estimated total,1,1391,9628
+NA,"Rate per 100,000 inhabitants",NA,497.6,3443.9
+"Fort Wayne, IN M.S.A.",NA,431558,NA,NA
+NA,"Includes Allen, Wells, and Whitley Counties",NA,NA,NA
+NA,City of Fort Wayne,261642,1040,8924
+NA,Total area actually reporting,0.947,1257,10858
+NA,Estimated total,1,1288,11122
+NA,"Rate per 100,000 inhabitants",NA,298.5,2577.2
+"Fresno, CA M.S.A.",NA,976874,NA,NA
+NA,Includes Fresno County,NA,NA,NA
+NA,City of Fresno,524796,3206,20523
+NA,Total area actually reporting,1,5983,31875
+NA,"Rate per 100,000 inhabitants",NA,612.5,3263
+"Gadsden, AL M.S.A.",NA,102537,NA,NA
+NA,Includes Etowah County,NA,NA,NA
+NA,City of Gadsden,35927,464,2521
+NA,Total area actually reporting,0.985,722,3651
+NA,Estimated total,1,730,3702
+NA,"Rate per 100,000 inhabitants",NA,711.9,3610.4
+"Gainesville, FL M.S.A.",NA,280301,NA,NA
+NA,Includes Alachua and Gilchrist Counties,NA,NA,NA
+NA,City of Gainesville,131242,870,4908
+NA,Total area actually reporting,0.946,1460,7764
+NA,Estimated total,1,1513,8068
+NA,"Rate per 100,000 inhabitants",NA,539.8,2878.3
+"Gainesville, GA M.S.A.",NA,196154,NA,NA
+NA,Includes Hall County,NA,NA,NA
+NA,City of Gainesville,39425,162,1405
+NA,Total area actually reporting,1,512,5026
+NA,"Rate per 100,000 inhabitants",NA,261,2562.3
+"Gettysburg, PA M.S.A.",NA,102165,NA,NA
+NA,Includes Adams County,NA,NA,NA
+NA,City of Gettysburg,7608,31,106
+NA,Total area actually reporting,1,166,817
+NA,"Rate per 100,000 inhabitants",NA,162.5,799.7
+"Glens Falls, NY M.S.A.",NA,125674,NA,NA
+NA,Includes Warren and Washington Counties,NA,NA,NA
+NA,City of Glens Falls,14212,33,220
+NA,Total area actually reporting,1,207,1565
+NA,"Rate per 100,000 inhabitants",NA,164.7,1245.3
+"Goldsboro, NC M.S.A.",NA,124396,NA,NA
+NA,Includes Wayne County,NA,NA,NA
+NA,City of Goldsboro,35871,389,1999
+NA,Total area actually reporting,0.977,538,3801
+NA,Estimated total,1,546,3889
+NA,"Rate per 100,000 inhabitants",NA,438.9,3126.3
+"Grand Forks, ND-MN M.S.A.",NA,101537,NA,NA
+NA,"Includes Polk County, MN and Grand Forks County, ND",NA,NA,NA
+NA,"City of Grand Forks, ND",57853,177,1783
+NA,Total area actually reporting,1,244,2550
+NA,"Rate per 100,000 inhabitants",NA,240.3,2511.4
+"Grand Island, NE M.S.A.",NA,85552,NA,NA
+NA,"Includes Hall, Hamilton, Howard, and Merrick Counties",NA,NA,NA
+NA,City of Grand Island,51980,173,1620
+NA,Total area actually reporting,0.925,236,1893
+NA,Estimated total,1,245,1973
+NA,"Rate per 100,000 inhabitants",NA,286.4,2306.2
+"Grand Junction, CO M.S.A.",NA,148848,NA,NA
+NA,Includes Mesa County,NA,NA,NA
+NA,City of Grand Junction,60628,314,3060
+NA,Total area actually reporting,0.992,516,4540
+NA,Estimated total,1,519,4573
+NA,"Rate per 100,000 inhabitants",NA,348.7,3072.3
+"Grand Rapids-Wyoming, MI M.S.A.",NA,1048249,NA,NA
+NA,"Includes Barry, Kent, Montcalm, and Ottawa Counties",NA,NA,NA
+NA,City of Grand Rapids,196538,1327,4334
+NA,City of Wyoming,75917,352,1758
+NA,Total area actually reporting,0.998,3529,16906
+NA,Estimated total,1,3534,16939
+NA,"Rate per 100,000 inhabitants",NA,337.1,1615.9
+"Grants Pass, OR M.S.A.",NA,85644,NA,NA
+NA,Includes Josephine County,NA,NA,NA
+NA,City of Grants Pass,37317,96,2010
+NA,Total area actually reporting,1,190,2417
+NA,"Rate per 100,000 inhabitants",NA,221.8,2822.1
+"Great Falls, MT M.S.A.",NA,82482,NA,NA
+NA,Includes Cascade County,NA,NA,NA
+NA,City of Great Falls,59717,162,2944
+NA,Total area actually reporting,1,189,3149
+NA,"Rate per 100,000 inhabitants",NA,229.1,3817.8
+"Greeley, CO M.S.A.",NA,291675,NA,NA
+NA,Includes Weld County,NA,NA,NA
+NA,City of Greeley,102491,468,3275
+NA,Total area actually reporting,0.996,749,5861
+NA,Estimated total,1,752,5895
+NA,"Rate per 100,000 inhabitants",NA,257.8,2021.1
+"Green Bay, WI M.S.A.2",NA,318010,NA,NA
+NA,"Includes Brown,2 Kewaunee, and Oconto Counties",NA,NA,NA
+NA,City of Green Bay2,105452,505,2306
+NA,Total area actually reporting,0.91,662,4418
+NA,Estimated total,1,681,4618
+NA,"Rate per 100,000 inhabitants",NA,214.1,1452.2
+"Hagerstown-Martinsburg, MD-WV M.S.A.",NA,261805,NA,NA
+NA,"Includes Washington County, MD and Berkeley County, WV",NA,NA,NA
+NA,"City of Hagerstown, MD",40567,231,1262
+NA,"City of Martinsburg, WV",17789,81,882
+NA,Total area actually reporting,1,650,5556
+NA,"Rate per 100,000 inhabitants",NA,248.3,2122.2
+"Hammond, LA M.S.A.",NA,129819,NA,NA
+NA,Includes Tangipahoa Parish,NA,NA,NA
+NA,City of Hammond,20576,286,2131
+NA,Total area actually reporting,0.966,1170,5470
+NA,Estimated total,1,1189,5635
+NA,"Rate per 100,000 inhabitants",NA,915.9,4340.7
+"Hanford-Corcoran, CA M.S.A.",NA,149661,NA,NA
+NA,Includes Kings County,NA,NA,NA
+NA,City of Hanford,55973,266,1496
+NA,City of Corcoran,22111,68,404
+NA,Total area actually reporting,1,639,3167
+NA,"Rate per 100,000 inhabitants",NA,427,2116.1
+"Harrisburg-Carlisle, PA M.S.A.",NA,566382,NA,NA
+NA,"Includes Cumberland, Dauphin, and Perry Counties",NA,NA,NA
+NA,City of Harrisburg,48996,526,1342
+NA,City of Carlisle,19225,25,400
+NA,Total area actually reporting,0.994,1439,8326
+NA,Estimated total,1,1445,8379
+NA,"Rate per 100,000 inhabitants",NA,255.1,1479.4
+"Harrisonburg, VA M.S.A.",NA,131581,NA,NA
+NA,Includes Rockingham County and Harrisonburg City,NA,NA,NA
+NA,City of Harrisonburg,52972,117,1099
+NA,Total area actually reporting,1,214,1794
+NA,"Rate per 100,000 inhabitants",NA,162.6,1363.4
+"Hartford-West Hartford-East Hartford, CT M.S.A.2",NA,1019846,NA,NA
+NA,"Includes Hartford, Middlesex, and Tolland Counties",NA,NA,NA
+NA,City of Hartford,123736,1353,5197
+NA,City of West Hartford,62979,40,1589
+NA,City of East Hartford,50733,147,1312
+NA,City of Middletown,46580,70,927
+NA,Total area actually reporting,1,2430,22566
+NA,"Rate per 100,000 inhabitants",NA,238.3,2212.7
+"Hattiesburg, MS M.S.A.",NA,149558,NA,NA
+NA,"Includes Forrest, Lamar, and Perry Counties",NA,NA,NA
+NA,City of Hattiesburg,47006,147,2752
+NA,Total area actually reporting,0.902,279,3822
+NA,Estimated total,1,298,4068
+NA,"Rate per 100,000 inhabitants",NA,199.3,2720
+"Hilton Head Island-Bluffton-Beaufort, SC M.S.A.",NA,211983,NA,NA
+NA,Includes Beaufort and Jasper Counties,NA,NA,NA
+NA,City of Bluffton,17498,25,267
+NA,City of Beaufort,13477,85,857
+NA,Total area actually reporting,1,668,4634
+NA,"Rate per 100,000 inhabitants",NA,315.1,2186
+"Hinesville, GA M.S.A.",NA,80776,NA,NA
+NA,Includes Liberty and Long Counties,NA,NA,NA
+NA,City of Hinesville,33477,215,1252
+NA,Total area actually reporting,1,344,1850
+NA,"Rate per 100,000 inhabitants",NA,425.9,2290.3
+"Homosassa Springs, FL M.S.A.",NA,141300,NA,NA
+NA,Includes Citrus County,NA,NA,NA
+NA,Total area actually reporting,1,338,1979
+NA,"Rate per 100,000 inhabitants",NA,239.2,1400.6
+"Hot Springs, AR M.S.A.",NA,97312,NA,NA
+NA,Includes Garland County,NA,NA,NA
+NA,City of Hot Springs,35716,277,2882
+NA,Total area actually reporting,1,634,4605
+NA,"Rate per 100,000 inhabitants",NA,651.5,4732.2
+"Houma-Thibodaux, LA M.S.A.",NA,212402,NA,NA
+NA,Includes Lafourche and Terrebonne Parishes,NA,NA,NA
+NA,City of Houma,34410,167,1411
+NA,City of Thibodaux,14588,90,593
+NA,Total area actually reporting,1,954,6693
+NA,"Rate per 100,000 inhabitants",NA,449.1,3151.1
+"Houston-The Woodlands-Sugar Land, TX M.S.A.",NA,6789215,NA,NA
+NA,"Includes Austin, Brazoria, Chambers, Fort Bend, Galveston, Harris, Liberty, Montgomery, and Waller Counties",NA,NA,NA
+NA,City of Houston,2334348,23960,100856
+NA,City of Sugar Land,90088,77,1460
+NA,City of Baytown,77224,302,2858
+NA,City of Conroe,71111,252,2199
+NA,Total area actually reporting,0.999,39255,198490
+NA,Estimated total,1,39256,198500
+NA,"Rate per 100,000 inhabitants",NA,578.2,2923.8
+"Huntington-Ashland, WV-KY-OH M.S.A.3, 4",NA,359412,NA,NA
+NA,"Includes Boyd and Greenup Counties, KY; Lawrence County OH; and Cabell, Lincoln, Putnam, and Wayne Counties, WV",NA,NA,NA
+NA,"City of Huntington, WV3",48540,378,NA
+NA,"City of Ashland, KY",20987,51,885
+NA,Total area actually reporting,0.837,900,NA
+NA,Estimated total,1,1048,NA
+NA,"Rate per 100,000 inhabitants",NA,291.6,NA
+"Huntsville, AL M.S.A.",NA,448973,NA,NA
+NA,Includes Limestone and Madison Counties,NA,NA,NA
+NA,City of Huntsville,192587,1787,9398
+NA,Total area actually reporting,1,2501,14340
+NA,"Rate per 100,000 inhabitants",NA,557,3194
+"Idaho Falls, ID M.S.A.",NA,141859,NA,NA
+NA,"Includes Bonneville, Butte, and Jefferson Counties",NA,NA,NA
+NA,City of Idaho Falls,59615,253,1367
+NA,Total area actually reporting,1,425,2226
+NA,"Rate per 100,000 inhabitants",NA,299.6,1569.2
+"Indianapolis-Carmel-Anderson, IN M.S.A.",NA,2004800,NA,NA
+NA,"Includes Boone, Brown, Hamilton, Hancock, Hendricks, Johnson, Madison, Marion, Morgan, Putnam, and Shelby Counties",NA,NA,NA
+NA,City of Indianapolis,866351,11907,41540
+NA,City of Carmel,90619,25,803
+NA,City of Anderson,55134,240,2294
+NA,Total area actually reporting,0.824,13615,57721
+NA,Estimated total,1,14302,64291
+NA,"Rate per 100,000 inhabitants",NA,713.4,3206.9
+"Iowa City, IA M.S.A.",NA,169088,NA,NA
+NA,Includes Johnson and Washington Counties,NA,NA,NA
+NA,City of Iowa City,75527,197,1551
+NA,Total area actually reporting,1,493,2921
+NA,"Rate per 100,000 inhabitants",NA,291.6,1727.5
+"Jackson, MI M.S.A.",NA,159287,NA,NA
+NA,Includes Jackson County,NA,NA,NA
+NA,City of Jackson,33060,409,1504
+NA,Total area actually reporting,0.987,843,3489
+NA,Estimated total,1,849,3528
+NA,"Rate per 100,000 inhabitants",NA,533,2214.9
+"Jackson, TN M.S.A.",NA,129606,NA,NA
+NA,"Includes Chester, Crockett, and Madison Counties",NA,NA,NA
+NA,City of Jackson,66990,628,2947
+NA,Total area actually reporting,1,843,3939
+NA,"Rate per 100,000 inhabitants",NA,650.4,3039.2
+"Jacksonville, FL M.S.A.",NA,1473678,NA,NA
+NA,"Includes Baker, Clay, Duval, Nassau, and St. Johns Counties",NA,NA,NA
+NA,City of Jacksonville,880557,5504,31538
+NA,Total area actually reporting,1,7058,42653
+NA,"Rate per 100,000 inhabitants",NA,478.9,2894.3
+"Janesville-Beloit, WI M.S.A.",NA,161430,NA,NA
+NA,Includes Rock County,NA,NA,NA
+NA,City of Janesville,64234,145,1763
+NA,City of Beloit,36878,175,1124
+NA,Total area actually reporting,1,370,3570
+NA,"Rate per 100,000 inhabitants",NA,229.2,2211.5
+"Jefferson City, MO M.S.A.",NA,151164,NA,NA
+NA,"Includes Callaway, Cole, Moniteau, and Osage Counties",NA,NA,NA
+NA,City of Jefferson City,43171,174,1318
+NA,Total area actually reporting,1,445,2855
+NA,"Rate per 100,000 inhabitants",NA,294.4,1888.7
+"Johnson City, TN M.S.A.",NA,200977,NA,NA
+NA,"Includes Carter, Unicoi, and Washington Counties",NA,NA,NA
+NA,City of Johnson City,66511,263,2488
+NA,Total area actually reporting,1,585,4662
+NA,"Rate per 100,000 inhabitants",NA,291.1,2319.7
+"Johnstown, PA M.S.A.",NA,134652,NA,NA
+NA,Includes Cambria County,NA,NA,NA
+NA,City of Johnstown,21227,100,633
+NA,Total area actually reporting,0.98,210,1807
+NA,Estimated total,1,214,1848
+NA,"Rate per 100,000 inhabitants",NA,158.9,1372.4
+"Jonesboro, AR M.S.A.",NA,129793,NA,NA
+NA,Includes Craighead and Poinsett Counties,NA,NA,NA
+NA,City of Jonesboro,75230,387,3369
+NA,Total area actually reporting,1,541,4662
+NA,"Rate per 100,000 inhabitants",NA,416.8,3591.9
+"Joplin, MO M.S.A.4",NA,177228,NA,NA
+NA,Includes Jasper and Newton4 Counties,NA,NA,NA
+NA,City of Joplin,52001,329,3779
+NA,Total area actually reporting,1,NA,7163
+NA,"Rate per 100,000 inhabitants",NA,NA,4041.7
+"Kahului-Wailuku-Lahaina, HI M.S.A.",NA,164771,NA,NA
+NA,Includes Kalawao and Maui Counties,NA,NA,NA
+NA,Total area actually reporting,1,450,5741
+NA,"Rate per 100,000 inhabitants",NA,273.1,3484.2
+"Kalamazoo-Portage, MI M.S.A.",NA,336919,NA,NA
+NA,Includes Kalamazoo and Van Buren Counties,NA,NA,NA
+NA,City of Kalamazoo,76389,925,3221
+NA,City of Portage,48550,103,1289
+NA,Total area actually reporting,1,1776,9038
+NA,"Rate per 100,000 inhabitants",NA,527.1,2682.5
+"Kankakee, IL M.S.A.",NA,109833,NA,NA
+NA,Includes Kankakee County,NA,NA,NA
+NA,City of Kankakee,26509,203,1098
+NA,Total area actually reporting,0.867,311,2382
+NA,Estimated total,1,341,2630
+NA,"Rate per 100,000 inhabitants",NA,310.5,2394.5
+"Kennewick-Richland, WA M.S.A.",NA,285194,NA,NA
+NA,Includes Benton and Franklin Counties,NA,NA,NA
+NA,City of Kennewick,79837,183,2254
+NA,City of Richland,55475,101,1344
+NA,Total area actually reporting,1,551,6202
+NA,"Rate per 100,000 inhabitants",NA,193.2,2174.7
+"Killeen-Temple, TX M.S.A.2",NA,434470,NA,NA
+NA,"Includes Bell, Coryell, and Lampasas Counties",NA,NA,NA
+NA,City of Killeen,143248,996,3946
+NA,City of Temple,73411,226,2298
+NA,Total area actually reporting,0.993,1673,10468
+NA,Estimated total,1,1681,10542
+NA,"Rate per 100,000 inhabitants",NA,386.9,2426.4
+"Kingsport-Bristol-Bristol, TN-VA M.S.A.",NA,306101,NA,NA
+NA,"Includes Hawkins and Sullivan Counties, TN and Scott and Washington Counties and Bristol City, VA",NA,NA,NA
+NA,"City of Kingsport, TN",53059,369,2501
+NA,"City of Bristol, TN",26656,158,900
+NA,"City of Bristol, VA",16908,37,432
+NA,Total area actually reporting,1,1124,7135
+NA,"Rate per 100,000 inhabitants",NA,367.2,2330.9
+"Kingston, NY M.S.A.",NA,178502,NA,NA
+NA,Includes Ulster County,NA,NA,NA
+NA,City of Kingston,23360,76,484
+NA,Total area actually reporting,1,292,2336
+NA,"Rate per 100,000 inhabitants",NA,163.6,1308.7
+"Knoxville, TN M.S.A.",NA,866010,NA,NA
+NA,"Includes Anderson, Blount, Campbell, Grainger, Knox, Loudon, Morgan, Roane, and Union Counties",NA,NA,NA
+NA,City of Knoxville,186583,1672,10324
+NA,Total area actually reporting,1,3892,23900
+NA,"Rate per 100,000 inhabitants",NA,449.4,2759.8
+"Kokomo, IN M.S.A.",NA,82350,NA,NA
+NA,Includes Howard County,NA,NA,NA
+NA,City of Kokomo,57984,441,1760
+NA,Total area actually reporting,0.987,519,2046
+NA,Estimated total,1,522,2077
+NA,"Rate per 100,000 inhabitants",NA,633.9,2522.2
+"La Crosse-Onalaska, WI-MN M.S.A.",NA,137403,NA,NA
+NA,"Includes Houston County, MN and La Crosse County, WI",NA,NA,NA
+NA,"City of La Crosse, WI",52498,131,2290
+NA,"City of Onalaska, WI",18600,13,508
+NA,Total area actually reporting,1,186,3374
+NA,"Rate per 100,000 inhabitants",NA,135.4,2455.6
+"Lafayette, LA M.S.A.3",NA,493575,NA,NA
+NA,"Includes Acadia, Iberia,3 Lafayette, St. Martin, and Vermilion Parishes",NA,NA,NA
+NA,City of Lafayette,128923,641,6417
+NA,Total area actually reporting,0.974,1830,NA
+NA,Estimated total,1,1887,NA
+NA,"Rate per 100,000 inhabitants",NA,382.3,NA
+"Lafayette-West Lafayette, IN M.S.A.",NA,216480,NA,NA
+NA,"Includes Benton, Carroll, and Tippecanoe Counties",NA,NA,NA
+NA,City of Lafayette,71562,360,3016
+NA,City of West Lafayette,46284,57,452
+NA,Total area actually reporting,0.871,491,4401
+NA,Estimated total,1,536,4799
+NA,"Rate per 100,000 inhabitants",NA,247.6,2216.8
+"Lake Charles, LA M.S.A.",NA,206047,NA,NA
+NA,Includes Calcasieu and Cameron Parishes,NA,NA,NA
+NA,City of Lake Charles,76864,654,3153
+NA,Total area actually reporting,1,1357,8754
+NA,"Rate per 100,000 inhabitants",NA,658.6,4248.5
+"Lakeland-Winter Haven, FL M.S.A.",NA,661218,NA,NA
+NA,Includes Polk County,NA,NA,NA
+NA,City of Lakeland,105766,337,5111
+NA,City of Winter Haven,38488,196,1339
+NA,Total area actually reporting,1,2199,15567
+NA,"Rate per 100,000 inhabitants",NA,332.6,2354.3
+"Lancaster, PA M.S.A.",NA,538376,NA,NA
+NA,Includes Lancaster County,NA,NA,NA
+NA,City of Lancaster,59340,487,2164
+NA,Total area actually reporting,1,944,7411
+NA,"Rate per 100,000 inhabitants",NA,175.3,1376.5
+"Lansing-East Lansing, MI M.S.A.",NA,473685,NA,NA
+NA,"Includes Clinton, Eaton, and Ingham Counties",NA,NA,NA
+NA,City of Lansing,115199,1341,3325
+NA,City of East Lansing,48451,115,719
+NA,Total area actually reporting,1,2172,8730
+NA,"Rate per 100,000 inhabitants",NA,458.5,1843
+"Laredo, TX M.S.A.",NA,272746,NA,NA
+NA,Includes Webb County,NA,NA,NA
+NA,City of Laredo,259325,940,7890
+NA,Total area actually reporting,1,986,8188
+NA,"Rate per 100,000 inhabitants",NA,361.5,3002.1
+"Las Cruces, NM M.S.A.",NA,214233,NA,NA
+NA,Includes Dona Ana County,NA,NA,NA
+NA,City of Las Cruces,102349,251,4788
+NA,Total area actually reporting,0.957,496,6049
+NA,Estimated total,1,542,6357
+NA,"Rate per 100,000 inhabitants",NA,253,2967.3
+"Las Vegas-Henderson-Paradise, NV M.S.A.",NA,2155946,NA,NA
+NA,Includes Clark County,NA,NA,NA
+NA,City of Las Vegas Metropolitan Police Department,1592178,13520,46e3
+NA,City of Henderson,291584,617,5484
+NA,Total area actually reporting,1,16622,58811
+NA,"Rate per 100,000 inhabitants",NA,771,2727.9
+"Lawton, OK M.S.A.",NA,129814,NA,NA
+NA,Includes Comanche and Cotton Counties,NA,NA,NA
+NA,City of Lawton,96420,781,3691
+NA,Total area actually reporting,0.991,813,4125
+NA,Estimated total,1,815,4155
+NA,"Rate per 100,000 inhabitants",NA,627.8,3200.7
+"Lebanon, PA M.S.A.",NA,137357,NA,NA
+NA,Includes Lebanon County,NA,NA,NA
+NA,City of Lebanon,25549,60,619
+NA,Total area actually reporting,0.959,203,1942
+NA,Estimated total,1,212,2028
+NA,"Rate per 100,000 inhabitants",NA,154.3,1476.4
+"Lewiston, ID-WA M.S.A.",NA,62714,NA,NA
+NA,"Includes Nez Perce County, ID and Asotin County, WA",NA,NA,NA
+NA,"City of Lewiston, ID",32665,46,1330
+NA,Total area actually reporting,1,95,2189
+NA,"Rate per 100,000 inhabitants",NA,151.5,3490.4
+"Lewiston-Auburn, ME M.S.A.",NA,107279,NA,NA
+NA,Includes Androscoggin County,NA,NA,NA
+NA,City of Lewiston,36126,64,718
+NA,City of Auburn,22836,43,730
+NA,Total area actually reporting,1,146,1825
+NA,"Rate per 100,000 inhabitants",NA,136.1,1701.2
+"Lexington-Fayette, KY M.S.A.",NA,505664,NA,NA
+NA,"Includes Bourbon, Clark, Fayette, Jessamine, Scott, and Woodford Counties",NA,NA,NA
+NA,City of Lexington,317853,1079,13058
+NA,Total area actually reporting,1,1335,18168
+NA,"Rate per 100,000 inhabitants",NA,264,3592.9
+"Lima, OH M.S.A.",NA,103900,NA,NA
+NA,Includes Allen County,NA,NA,NA
+NA,City of Lima,37715,356,2259
+NA,Total area actually reporting,0.967,400,3652
+NA,Estimated total,1,405,3729
+NA,"Rate per 100,000 inhabitants",NA,389.8,3589
+"Lincoln, NE M.S.A.",NA,327353,NA,NA
+NA,Includes Lancaster and Seward Counties,NA,NA,NA
+NA,City of Lincoln,281138,1006,8730
+NA,Total area actually reporting,0.994,1052,9202
+NA,Estimated total,1,1055,9244
+NA,"Rate per 100,000 inhabitants",NA,322.3,2823.9
+"Little Rock-North Little Rock-Conway, AR M.S.A.4",NA,737086,NA,NA
+NA,"Includes Faulkner, Grant, Lonoke, Perry, Pulaski, and Saline Counties",NA,NA,NA
+NA,City of Little Rock,198800,3044,13714
+NA,City of North Little Rock,67344,503,2926
+NA,City of Conway,66104,335,2970
+NA,Total area actually reporting,1,5602,NA
+NA,"Rate per 100,000 inhabitants",NA,760,NA
+"Logan, UT-ID M.S.A.",NA,135889,NA,NA
+NA,"Includes Franklin County, ID and Cache County, UT",NA,NA,NA
+NA,"City of Logan, UT",50767,50,844
+NA,Total area actually reporting,1,90,1481
+NA,"Rate per 100,000 inhabitants",NA,66.2,1089.9
+"Longview, WA M.S.A.",NA,104085,NA,NA
+NA,Includes Cowlitz County,NA,NA,NA
+NA,City of Longview,36854,142,1927
+NA,Total area actually reporting,1,279,3448
+NA,"Rate per 100,000 inhabitants",NA,268.1,3312.7
+"Los Angeles-Long Beach-Anaheim, CA M.S.A.",NA,13350144,NA,NA
+NA,Includes the Metropolitan Divisions of Anaheim-Santa Ana-Irvine and Los Angeles-Long Beach-Glendale,NA,NA,NA
+NA,City of Los Angeles,4007905,28817,99151
+NA,City of Long Beach,476476,2846,14224
+NA,City of Anaheim,353504,1209,9617
+NA,City of Santa Ana,337419,1612,6980
+NA,City of Irvine,266663,152,3737
+NA,City of Glendale,202903,227,3450
+NA,City of Torrance,149078,258,3221
+NA,City of Pasadena,143288,477,3446
+NA,City of Orange,141841,228,2608
+NA,City of Costa Mesa,113816,412,4610
+NA,City of Burbank,105720,210,2927
+NA,City of Carson,93613,505,2424
+NA,City of Santa Monica,93921,475,4039
+NA,City of Newport Beach,87482,110,2241
+NA,City of Tustin,81642,120,1806
+NA,City of Monterey Park,61710,131,1704
+NA,City of Gardena,60770,338,1482
+NA,City of Arcadia,58816,83,1642
+NA,City of Fountain Valley,57291,63,1443
+NA,Total area actually reporting,1,63646,318559
+NA,"Rate per 100,000 inhabitants",NA,476.7,2386.2
+"Anaheim-Santa Ana-Irvine, CA M.D.",NA,3179276,NA,NA
+NA,Includes Orange County,NA,NA,NA
+NA,Total area actually reporting,1,7275,66054
+NA,"Rate per 100,000 inhabitants",NA,228.8,2077.6
+"Los Angeles-Long Beach-Glendale, CA M.D.",NA,10170868,NA,NA
+NA,Includes Los Angeles County,NA,NA,NA
+NA,Total area actually reporting,1,56371,252505
+NA,"Rate per 100,000 inhabitants",NA,554.2,2482.6
+"Louisville/Jefferson County, KY-IN M.S.A.",NA,1285169,NA,NA
+NA,"Includes Clark, Floyd, Harrison, Scott, and Washington Counties, IN and Bullitt, Henry, Jefferson, Oldham, Shelby, Spencer, and Trimble Counties, KY",NA,NA,NA
+NA,"City of Louisville Metro, KY",683825,4621,30254
+NA,Total area actually reporting,0.942,5502,42026
+NA,Estimated total,1,5627,43168
+NA,"Rate per 100,000 inhabitants",NA,437.8,3358.9
+"Lubbock, TX M.S.A.2",NA,314167,NA,NA
+NA,"Includes Crosby, Lubbock, and Lynn Counties",NA,NA,NA
+NA,City of Lubbock,252900,2741,12661
+NA,Total area actually reporting,0.988,2894,14117
+NA,Estimated total,1,2904,14210
+NA,"Rate per 100,000 inhabitants",NA,924.3,4523.1
+"Lynchburg, VA M.S.A.",NA,259926,NA,NA
+NA,"Includes Amherst, Appomattox, Bedford, and Campbell Counties and Bedford and Lynchburg Cities",NA,NA,NA
+NA,City of Lynchburg,80215,298,1802
+NA,Total area actually reporting,1,530,3739
+NA,"Rate per 100,000 inhabitants",NA,203.9,1438.5
+"Macon-Bibb County, GA M.S.A.",NA,229434,NA,NA
+NA,"Includes Bibb, Crawford, Jones, Monroe, and Twiggs Counties",NA,NA,NA
+NA,Total area actually reporting,0.996,872,9457
+NA,Estimated total,1,876,9496
+NA,"Rate per 100,000 inhabitants",NA,381.8,4138.9
+"Madera, CA M.S.A.",NA,154726,NA,NA
+NA,Includes Madera County,NA,NA,NA
+NA,City of Madera,64753,505,1859
+NA,Total area actually reporting,1,1024,3705
+NA,"Rate per 100,000 inhabitants",NA,661.8,2394.6
+"Madison, WI M.S.A.2",NA,647587,NA,NA
+NA,"Includes Columbia, Dane, Green, and Iowa Counties",NA,NA,NA
+NA,City of Madison,252136,832,6932
+NA,Total area actually reporting,0.988,1304,12263
+NA,Estimated total,1,1313,12406
+NA,"Rate per 100,000 inhabitants",NA,202.8,1915.7
+"Manchester-Nashua, NH M.S.A.",NA,408233,NA,NA
+NA,Includes Hillsborough County,NA,NA,NA
+NA,City of Manchester,110353,742,3010
+NA,City of Nashua,88252,151,1218
+NA,Total area actually reporting,0.987,1089,6162
+NA,Estimated total,1,1096,6228
+NA,"Rate per 100,000 inhabitants",NA,268.5,1525.6
+"Manhattan, KS M.S.A.",NA,99113,NA,NA
+NA,Includes Pottawatomie and Riley Counties,NA,NA,NA
+NA,Total area actually reporting,1,257,1607
+NA,"Rate per 100,000 inhabitants",NA,259.3,1621.4
+"Mankato-North Mankato, MN M.S.A.",NA,99481,NA,NA
+NA,Includes Blue Earth and Nicollet Counties,NA,NA,NA
+NA,City of Mankato,41300,112,1329
+NA,City of North Mankato,13553,7,149
+NA,Total area actually reporting,1,153,1878
+NA,"Rate per 100,000 inhabitants",NA,153.8,1887.8
+"Mansfield, OH M.S.A.",NA,121064,NA,NA
+NA,Includes Richland County,NA,NA,NA
+NA,City of Mansfield,46656,209,2605
+NA,Total area actually reporting,0.993,290,4437
+NA,Estimated total,1,291,4457
+NA,"Rate per 100,000 inhabitants",NA,240.4,3681.5
+"McAllen-Edinburg-Mission, TX M.S.A.2",NA,853003,NA,NA
+NA,Includes Hidalgo County,NA,NA,NA
+NA,City of McAllen,142227,215,4470
+NA,City of Edinburg,86535,354,4183
+NA,City of Mission,84380,120,2179
+NA,Total area actually reporting,0.993,2505,24130
+NA,Estimated total,1,2522,24276
+NA,"Rate per 100,000 inhabitants",NA,295.7,2845.9
+"Medford, OR M.S.A.",NA,215751,NA,NA
+NA,Includes Jackson County,NA,NA,NA
+NA,City of Medford,80794,407,5688
+NA,Total area actually reporting,1,772,9339
+NA,"Rate per 100,000 inhabitants",NA,357.8,4328.6
+"Memphis, TN-MS-AR M.S.A.",NA,1346931,NA,NA
+NA,"Includes Crittenden County, AR; Benton, DeSoto, Marshall, Tate, and Tunica Counties, MS; and Fayette, Shelby, and Tipton Counties, TN",NA,NA,NA
+NA,"City of Memphis, TN",656434,11947,36988
+NA,Total area actually reporting,0.973,14524,51468
+NA,Estimated total,1,14575,52102
+NA,"Rate per 100,000 inhabitants",NA,1082.1,3868.2
+"Merced, CA M.S.A.",NA,268999,NA,NA
+NA,Includes Merced County,NA,NA,NA
+NA,City of Merced,83106,489,2774
+NA,Total area actually reporting,1,1488,7658
+NA,"Rate per 100,000 inhabitants",NA,553.2,2846.9
+"Miami-Fort Lauderdale-West Palm Beach, FL M.S.A.",NA,6113688,NA,NA
+NA,"Includes the Metropolitan Divisions of Fort Lauderdale-Pompano Beach-Deerfield Beach, Miami-Miami Beach-Kendall, and West Palm Beach-Boca Raton-Delray Beach",NA,NA,NA
+NA,City of Miami,449469,3989,18974
+NA,City of Fort Lauderdale,181218,1144,10630
+NA,City of West Palm Beach,108074,954,5599
+NA,City of Pompano Beach,109362,931,5205
+NA,City of Miami Beach,93165,940,8419
+NA,City of Boca Raton,94931,239,2495
+NA,City of Deerfield Beach,80713,277,2193
+NA,City of Delray Beach,67400,387,2842
+NA,City of Jupiter,64273,147,1261
+NA,Total area actually reporting,1,29720,196533
+NA,"Rate per 100,000 inhabitants",NA,486.1,3214.6
+"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL M.D.",NA,1930253,NA,NA
+NA,Includes Broward County,NA,NA,NA
+NA,Total area actually reporting,1,7550,58871
+NA,"Rate per 100,000 inhabitants",NA,391.1,3049.9
+"Miami-Miami Beach-Kendall, FL M.D.",NA,2737194,NA,NA
+NA,Includes Miami-Dade County,NA,NA,NA
+NA,Total area actually reporting,1,15635,95584
+NA,"Rate per 100,000 inhabitants",NA,571.2,3492
+"West Palm Beach-Boca Raton-Delray Beach, FL M.D.",NA,1446241,NA,NA
+NA,Includes Palm Beach County,NA,NA,NA
+NA,Total area actually reporting,1,6535,42078
+NA,"Rate per 100,000 inhabitants",NA,451.9,2909.5
+"Michigan City-La Porte, IN M.S.A.",NA,110541,NA,NA
+NA,Includes La Porte County,NA,NA,NA
+NA,City of Michigan City,31459,186,1444
+NA,City of La Porte,21891,93,765
+NA,Total area actually reporting,0.958,320,2814
+NA,Estimated total,1,333,2943
+NA,"Rate per 100,000 inhabitants",NA,301.2,2662.4
+"Midland, MI M.S.A.",NA,83588,NA,NA
+NA,Includes Midland County,NA,NA,NA
+NA,City of Midland,42263,48,511
+NA,Total area actually reporting,1,107,887
+NA,"Rate per 100,000 inhabitants",NA,128,1061.2
+"Midland, TX M.S.A.",NA,171699,NA,NA
+NA,Includes Martin and Midland Counties,NA,NA,NA
+NA,City of Midland,137780,412,3352
+NA,Total area actually reporting,1,511,4285
+NA,"Rate per 100,000 inhabitants",NA,297.6,2495.6
+"Milwaukee-Waukesha-West Allis, WI M.S.A.2",NA,1577025,NA,NA
+NA,"Includes Milwaukee, Ozaukee, Washington, and Waukesha Counties",NA,NA,NA
+NA,City of Milwaukee,600193,9201,24392
+NA,City of Waukesha,72223,92,1117
+NA,City of West Allis2,60558,200,2262
+NA,Total area actually reporting,1,10345,42858
+NA,"Rate per 100,000 inhabitants",NA,656,2717.6
+"Minneapolis-St. Paul-Bloomington, MN-WI M.S.A.2",NA,3555186,NA,NA
+NA,"Includes Anoka, Carver,2 Chisago, Dakota, Hennepin, Isanti, Le Sueur, Mille Lacs, Ramsey, Scott, Sherburne, Sibley, Washington, and Wright Counties, MN and Pierce and St. Croix Counties, WI",NA,NA,NA
+NA,"City of Minneapolis, MN",416751,4622,17594
+NA,"City of St. Paul, MN",303920,1970,9811
+NA,"City of Bloomington, MN",87134,177,2810
+NA,"City of Plymouth, MN",76996,48,1009
+NA,"City of Eagan, MN",66698,40,1144
+NA,"City of Eden Prairie, MN",64037,36,729
+NA,Total area actually reporting,0.998,10218,82192
+NA,Estimated total,1,10227,82325
+NA,"Rate per 100,000 inhabitants",NA,287.7,2315.6
+"Missoula, MT M.S.A.",NA,115226,NA,NA
+NA,Includes Missoula County,NA,NA,NA
+NA,City of Missoula,71860,377,3761
+NA,Total area actually reporting,1,476,4087
+NA,"Rate per 100,000 inhabitants",NA,413.1,3546.9
+"Mobile, AL M.S.A.5",NA,414817,NA,NA
+NA,Includes Mobile County,NA,NA,NA
+NA,City of Mobile5,249921,1709,11769
+NA,Total area actually reporting,1,2426,16688
+NA,"Rate per 100,000 inhabitants",NA,584.8,4023
+"Modesto, CA M.S.A.",NA,539425,NA,NA
+NA,Includes Stanislaus County,NA,NA,NA
+NA,City of Modesto,212880,2104,9324
+NA,Total area actually reporting,1,3366,17918
+NA,"Rate per 100,000 inhabitants",NA,624,3321.7
+"Monroe, LA M.S.A.",NA,179125,NA,NA
+NA,Includes Ouachita and Union Parishes,NA,NA,NA
+NA,City of Monroe,49677,1493,4646
+NA,Total area actually reporting,0.956,2092,8592
+NA,Estimated total,1,2126,8884
+NA,"Rate per 100,000 inhabitants",NA,1186.9,4959.7
+"Montgomery, AL M.S.A.",NA,372661,NA,NA
+NA,"Includes Autauga, Elmore, Lowndes, and Montgomery Counties",NA,NA,NA
+NA,City of Montgomery,199565,1215,8989
+NA,Total area actually reporting,0.993,1745,13166
+NA,Estimated total,1,1758,13248
+NA,"Rate per 100,000 inhabitants",NA,471.7,3555
+"Morgantown, WV M.S.A.",NA,138954,NA,NA
+NA,Includes Monongalia and Preston Counties,NA,NA,NA
+NA,City of Morgantown,31109,89,674
+NA,Total area actually reporting,0.884,318,1684
+NA,Estimated total,1,366,2245
+NA,"Rate per 100,000 inhabitants",NA,263.4,1615.6
+"Mount Vernon-Anacortes, WA M.S.A.",NA,123317,NA,NA
+NA,Includes Skagit County,NA,NA,NA
+NA,City of Mount Vernon,34521,88,1324
+NA,City of Anacortes,16532,15,463
+NA,Total area actually reporting,1,230,4424
+NA,"Rate per 100,000 inhabitants",NA,186.5,3587.5
+"Muncie, IN M.S.A.",NA,116443,NA,NA
+NA,Includes Delaware County,NA,NA,NA
+NA,City of Muncie,70065,252,2755
+NA,Total area actually reporting,1,304,3429
+NA,"Rate per 100,000 inhabitants",NA,261.1,2944.8
+"Muskegon, MI M.S.A.",NA,172890,NA,NA
+NA,Includes Muskegon County,NA,NA,NA
+NA,City of Muskegon,38442,273,1468
+NA,Total area actually reporting,1,754,5211
+NA,"Rate per 100,000 inhabitants",NA,436.1,3014.1
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC M.S.A.",NA,444122,NA,NA
+NA,"Includes Brunswick County, NC and Horry County, SC",NA,NA,NA
+NA,"City of Myrtle Beach, SC",31864,538,4395
+NA,"City of Conway, SC",21874,174,1016
+NA,"City of North Myrtle Beach, SC",15945,121,1227
+NA,Total area actually reporting,0.974,2015,15950
+NA,Estimated total,1,2046,16308
+NA,"Rate per 100,000 inhabitants",NA,460.7,3672
+"Napa, CA M.S.A.",NA,142635,NA,NA
+NA,Includes Napa County,NA,NA,NA
+NA,City of Napa,81115,296,1579
+NA,Total area actually reporting,1,598,2524
+NA,"Rate per 100,000 inhabitants",NA,419.3,1769.6
+"Naples-Immokalee-Marco Island, FL M.S.A.",NA,365390,NA,NA
+NA,Includes Collier County,NA,NA,NA
+NA,City of Naples,21917,19,408
+NA,City of Marco Island,17947,2,94
+NA,Total area actually reporting,1,962,4496
+NA,"Rate per 100,000 inhabitants",NA,263.3,1230.5
+"Nashville - Davidson - Murfreesboro - Franklin, TN M.S.A.",NA,1863012,NA,NA
+NA,"Includes Cannon, Cheatham, Davidson, Dickson, Hickman, Macon, Maury, Robertson, Rutherford, Smith, Sumner, Trousdale, Williamson, and Wilson Counties",NA,NA,NA
+NA,City of Nashville Metropolitan,668685,7371,24719
+NA,City of Murfreesboro,129730,790,3867
+NA,City of Franklin,74771,154,1085
+NA,Total area actually reporting,1,11580,46171
+NA,"Rate per 100,000 inhabitants",NA,621.6,2478.3
+"New Bern, NC M.S.A.",NA,126088,NA,NA
+NA,"Includes Craven, Jones, and Pamlico Counties",NA,NA,NA
+NA,City of New Bern,30137,124,1046
+NA,Total area actually reporting,0.91,291,2797
+NA,Estimated total,1,310,3001
+NA,"Rate per 100,000 inhabitants",NA,245.9,2380.1
+"New Haven-Milford, CT M.S.A.2",NA,804612,NA,NA
+NA,Includes New Haven County,NA,NA,NA
+NA,City of New Haven,130425,1219,5492
+NA,City of Milford,53752,34,1215
+NA,Total area actually reporting,1,2597,20370
+NA,"Rate per 100,000 inhabitants",NA,322.8,2531.7
+"New Orleans-Metairie, LA M.S.A.",NA,1272995,NA,NA
+NA,"Includes Jefferson, Orleans, Plaquemines, St. Bernard, St. Charles, St. James, St. John the Baptist, and St. Tammany Parishes",NA,NA,NA
+NA,City of New Orleans,397208,4249,15571
+NA,Total area actually reporting,0.997,7099,38082
+NA,Estimated total,1,7113,38206
+NA,"Rate per 100,000 inhabitants",NA,558.8,3001.3
+"New York-Newark-Jersey City, NY-NJ-PA M.S.A.",NA,20177990,NA,NA
+NA,"Includes the Metropolitan Divisions of Dutchess County-Putnam County, NY; Nassau County-Suffolk County, NY; Newark, NJ-PA; and New York-Jersey City-White Plains, NY-NJ",NA,NA,NA
+NA,"City of New York, NY",8566917,49124,125278
+NA,"City of Newark, NJ",281450,2637,6308
+NA,"City of Jersey City, NJ",266179,1276,4483
+NA,"City of White Plains, NY",58767,121,931
+NA,"City of New Brunswick, NJ",57158,392,1252
+NA,"City of Lakewood Township, NJ",100269,169,949
+NA,Total area actually reporting,0.998,71541,273117
+NA,Estimated total,1,71614,273749
+NA,"Rate per 100,000 inhabitants",NA,354.9,1356.7
+"Dutchess County-Putnam County, NY M.D.",NA,391642,NA,NA
+NA,Includes Dutchess and Putnam Counties,NA,NA,NA
+NA,Total area actually reporting,0.991,601,4079
+NA,Estimated total,1,607,4130
+NA,"Rate per 100,000 inhabitants",NA,155,1054.5
+"Nassau County-Suffolk County, NY M.D.",NA,2849237,NA,NA
+NA,Includes Nassau and Suffolk Counties,NA,NA,NA
+NA,Total area actually reporting,0.988,3611,33727
+NA,Estimated total,1,3673,34264
+NA,"Rate per 100,000 inhabitants",NA,128.9,1202.6
+"Newark, NJ-PA M.D.",NA,2506862,NA,NA
+NA,"Includes Essex, Hunterdon, Morris, Somerset, Sussex, and Union Counties, NJ and Pike County, PA",NA,NA,NA
+NA,Total area actually reporting,1,7110,35082
+NA,"Rate per 100,000 inhabitants",NA,283.6,1399.4
+"New York-Jersey City-White Plains, NY-NJ M.D.",NA,14430249,NA,NA
+NA,"Includes Bergen, Hudson, Middlesex, Monmouth, Ocean, and Passaic Counties, NJ and Bronx, Kings, New York, Orange, Queens, Richmond, Rockland, and Westchester Counties, NY",NA,NA,NA
+NA,Total area actually reporting,0.999,60219,200229
+NA,Estimated total,1,60224,200273
+NA,"Rate per 100,000 inhabitants",NA,417.3,1387.9
+"Niles-Benton Harbor, MI M.S.A.",NA,154139,NA,NA
+NA,Includes Berrien County,NA,NA,NA
+NA,City of Niles,11282,64,287
+NA,City of Benton Harbor,9963,179,438
+NA,Total area actually reporting,1,696,3605
+NA,"Rate per 100,000 inhabitants",NA,451.5,2338.8
+"North Port-Sarasota-Bradenton, FL M.S.A.",NA,784372,NA,NA
+NA,Includes Manatee and Sarasota Counties,NA,NA,NA
+NA,City of North Port,63386,89,861
+NA,City of Sarasota,55732,291,2199
+NA,City of Bradenton,55518,328,1713
+NA,City of Venice,22514,24,374
+NA,Total area actually reporting,1,2678,15870
+NA,"Rate per 100,000 inhabitants",NA,341.4,2023.3
+"Norwich-New London, CT M.S.A.",NA,159068,NA,NA
+NA,Includes New London County,NA,NA,NA
+NA,City of Norwich,39771,121,621
+NA,City of New London,27092,193,743
+NA,Total area actually reporting,1,465,3278
+NA,"Rate per 100,000 inhabitants",NA,292.3,2060.8
+"Ocala, FL M.S.A.",NA,346358,NA,NA
+NA,Includes Marion County,NA,NA,NA
+NA,City of Ocala,58596,463,3174
+NA,Total area actually reporting,1,1174,7923
+NA,"Rate per 100,000 inhabitants",NA,339,2287.5
+"Ocean City, NJ M.S.A.",NA,93755,NA,NA
+NA,Includes Cape May County,NA,NA,NA
+NA,City of Ocean City,11287,14,364
+NA,Total area actually reporting,1,217,2830
+NA,"Rate per 100,000 inhabitants",NA,231.5,3018.5
+"Odessa, TX M.S.A.",NA,163843,NA,NA
+NA,Includes Ector County,NA,NA,NA
+NA,City of Odessa,123209,996,4118
+NA,Total area actually reporting,1,1169,6137
+NA,"Rate per 100,000 inhabitants",NA,713.5,3745.7
+"Ogden-Clearfield, UT M.S.A.2",NA,653748,NA,NA
+NA,"Includes Box Elder, Davis, Morgan, and Weber Counties",NA,NA,NA
+NA,City of Ogden,85930,450,3808
+NA,City of Clearfield,30783,29,664
+NA,Total area actually reporting,0.981,996,14205
+NA,Estimated total,1,1017,14508
+NA,"Rate per 100,000 inhabitants",NA,155.6,2219.2
+"Oklahoma City, OK M.S.A.",NA,1372721,NA,NA
+NA,"Includes Canadian, Cleveland, Grady, Lincoln, Logan, McClain, and Oklahoma Counties",NA,NA,NA
+NA,City of Oklahoma City,641681,5027,25032
+NA,Total area actually reporting,1,6737,42683
+NA,"Rate per 100,000 inhabitants",NA,490.8,3109.4
+"Olympia-Tumwater, WA M.S.A.",NA,274020,NA,NA
+NA,Includes Thurston County,NA,NA,NA
+NA,City of Olympia,50972,200,2491
+NA,City of Tumwater,19569,78,843
+NA,Total area actually reporting,1,668,8060
+NA,"Rate per 100,000 inhabitants",NA,243.8,2941.4
+"Omaha-Council Bluffs, NE-IA M.S.A.",NA,923710,NA,NA
+NA,"Includes Harrison, Mills, and Pottawattamie Counties, IA and Cass, Douglas, Sarpy, Saunders, and Washington Counties, NE",NA,NA,NA
+NA,"City of Omaha, NE",446163,2531,16807
+NA,"City of Council Bluffs, IA",62642,150,3862
+NA,Total area actually reporting,0.999,3242,25394
+NA,Estimated total,1,3244,25415
+NA,"Rate per 100,000 inhabitants",NA,351.2,2751.4
+"Orlando-Kissimmee-Sanford, FL M.S.A.6",NA,2445214,NA,NA
+NA,"Includes Lake, Orange, Osceola, and Seminole Counties",NA,NA,NA
+NA,City of Orlando6,277719,2328,14498
+NA,City of Kissimmee,71197,508,2670
+NA,City of Sanford,59027,542,2812
+NA,Total area actually reporting,0.994,12275,72038
+NA,Estimated total,1,12331,72464
+NA,"Rate per 100,000 inhabitants",NA,504.3,2963.5
+"Oshkosh-Neenah, WI M.S.A.",NA,169773,NA,NA
+NA,Includes Winnebago County,NA,NA,NA
+NA,City of Oshkosh,66654,141,1471
+NA,City of Neenah,25850,52,491
+NA,Total area actually reporting,1,281,2857
+NA,"Rate per 100,000 inhabitants",NA,165.5,1682.8
+"Owensboro, KY M.S.A.",NA,117893,NA,NA
+NA,"Includes Daviess, Hancock, and McLean Counties",NA,NA,NA
+NA,City of Owensboro,59359,136,2658
+NA,Total area actually reporting,1,169,3196
+NA,"Rate per 100,000 inhabitants",NA,143.4,2710.9
+"Oxnard-Thousand Oaks-Ventura, CA M.S.A.",NA,849851,NA,NA
+NA,Includes Ventura County,NA,NA,NA
+NA,City of Oxnard,209048,948,6073
+NA,City of Thousand Oaks,129853,164,1686
+NA,City of Ventura,110228,368,3750
+NA,City of Camarillo,68072,123,1125
+NA,Total area actually reporting,1,2192,16415
+NA,"Rate per 100,000 inhabitants",NA,257.9,1931.5
+"Palm Bay-Melbourne-Titusville, FL M.S.A.",NA,574187,NA,NA
+NA,Includes Brevard County,NA,NA,NA
+NA,City of Palm Bay,108823,516,1841
+NA,City of Melbourne,80900,667,3308
+NA,City of Titusville,45723,355,1868
+NA,Total area actually reporting,1,2870,14857
+NA,"Rate per 100,000 inhabitants",NA,499.8,2587.5
+"Panama City, FL M.S.A.",NA,200502,NA,NA
+NA,Includes Bay and Gulf Counties,NA,NA,NA
+NA,City of Panama City,38847,276,2098
+NA,Total area actually reporting,1,957,6776
+NA,"Rate per 100,000 inhabitants",NA,477.3,3379.5
+"Parkersburg-Vienna, WV M.S.A.",NA,91681,NA,NA
+NA,Includes Wirt and Wood Counties,NA,NA,NA
+NA,City of Parkersburg,30913,206,1373
+NA,City of Vienna,10537,20,447
+NA,Total area actually reporting,1,360,2425
+NA,"Rate per 100,000 inhabitants",NA,392.7,2645
+"Pensacola-Ferry Pass-Brent, FL M.S.A.",NA,484608,NA,NA
+NA,Includes Escambia and Santa Rosa Counties,NA,NA,NA
+NA,City of Pensacola,53424,348,2184
+NA,Total area actually reporting,1,2219,12338
+NA,"Rate per 100,000 inhabitants",NA,457.9,2546
+"Peoria, IL M.S.A.",NA,375999,NA,NA
+NA,"Includes Marshall, Peoria, Stark, Tazewell, and Woodford Counties",NA,NA,NA
+NA,City of Peoria,115099,875,4429
+NA,Total area actually reporting,0.957,1463,8215
+NA,Estimated total,1,1497,8489
+NA,"Rate per 100,000 inhabitants",NA,398.1,2257.7
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD M.S.A.",NA,6068767,NA,NA
+NA,"Includes the Metropolitan Divisions of Camden, NJ; Montgomery County-Bucks County-Chester County, PA; Philadelphia, PA; and Wilmington, DE-MD-NJ",NA,NA,NA
+NA,"City of Philadelphia, PA",1570826,15534,49334
+NA,"City of Wilmington, DE",72183,1285,3544
+NA,Total area actually reporting,0.999,27091,131765
+NA,Estimated total,1,27098,131822
+NA,"Rate per 100,000 inhabitants",NA,446.5,2172.1
+"Camden, NJ M.D.",NA,1246564,NA,NA
+NA,"Includes Burlington, Camden, and Gloucester Counties",NA,NA,NA
+NA,Total area actually reporting,1,3396,24291
+NA,"Rate per 100,000 inhabitants",NA,272.4,1948.6
+"Montgomery County-Bucks County-Chester County, PA M.D.",NA,1964200,NA,NA
+NA,"Includes Bucks, Chester, and Montgomery Counties",NA,NA,NA
+NA,Total area actually reporting,0.999,2342,27761
+NA,Estimated total,1,2345,27783
+NA,"Rate per 100,000 inhabitants",NA,119.4,1414.5
+"Philadelphia, PA M.D.",NA,2134060,NA,NA
+NA,Includes Delaware and Philadelphia Counties,NA,NA,NA
+NA,Total area actually reporting,0.999,17639,59550
+NA,Estimated total,1,17643,59585
+NA,"Rate per 100,000 inhabitants",NA,826.7,2792.1
+"Wilmington, DE-MD-NJ M.D.",NA,723943,NA,NA
+NA,"Includes New Castle County, DE; Cecil County, MD; and Salem County, NJ",NA,NA,NA
+NA,Total area actually reporting,1,3714,20163
+NA,"Rate per 100,000 inhabitants",NA,513,2785.2
+"Phoenix-Mesa-Scottsdale, AZ M.S.A.",NA,4662302,NA,NA
+NA,Includes Maricopa and Pinal Counties,NA,NA,NA
+NA,City of Phoenix,1586611,10700,58552
+NA,City of Mesa,478277,2051,11214
+NA,City of Scottsdale,240885,369,5698
+NA,City of Tempe,178654,902,8144
+NA,Total area actually reporting,0.998,19876,133534
+NA,Estimated total,1,19904,133812
+NA,"Rate per 100,000 inhabitants",NA,426.9,2870.1
+"Pine Bluff, AR M.S.A",NA,92403,NA,NA
+NA,"Includes Cleveland, Jefferson, and Lincoln Counties",NA,NA,NA
+NA,City of Pine Bluff,43976,705,2786
+NA,Total area actually reporting,1,840,3594
+NA,"Rate per 100,000 inhabitants",NA,909.1,3889.5
+"Pittsburgh, PA M.S.A.",NA,2345496,NA,NA
+NA,"Includes Allegheny, Armstrong, Beaver, Butler, Fayette, Washington, and Westmoreland Counties",NA,NA,NA
+NA,City of Pittsburgh,302443,2366,9868
+NA,Total area actually reporting,0.979,6694,40207
+NA,Estimated total,1,6778,40964
+NA,"Rate per 100,000 inhabitants",NA,289,1746.5
+"Pittsfield, MA M.S.A.",NA,126594,NA,NA
+NA,Includes Berkshire County,NA,NA,NA
+NA,City of Pittsfield,43031,340,1016
+NA,Total area actually reporting,0.912,616,2138
+NA,Estimated total,1,649,2292
+NA,"Rate per 100,000 inhabitants",NA,512.7,1810.5
+"Pocatello, ID M.S.A.",NA,84414,NA,NA
+NA,Includes Bannock County,NA,NA,NA
+NA,City of Pocatello,54448,207,1630
+NA,Total area actually reporting,1,241,2218
+NA,"Rate per 100,000 inhabitants",NA,285.5,2627.5
+"Portland-South Portland, ME M.S.A.2",NA,529510,NA,NA
+NA,"Includes Cumberland, Sagadahoc, and York Counties",NA,NA,NA
+NA,City of Portland,67041,196,1795
+NA,City of South Portland,25674,44,596
+NA,Total area actually reporting,1,711,8954
+NA,"Rate per 100,000 inhabitants",NA,134.3,1691
+"Portland-Vancouver-Hillsboro, OR-WA M.S.A.",NA,2435620,NA,NA
+NA,"Includes Clackamas, Columbia, Multnomah, Washington, and Yamhill Counties, OR and Clark and Skamania Counties, WA",NA,NA,NA
+NA,"City of Portland, OR",642129,3163,33087
+NA,"City of Vancouver, WA",174912,675,5533
+NA,"City of Hillsboro, OR",104440,298,2010
+NA,"City of Beaverton, OR",97907,133,1403
+NA,Total area actually reporting,0.983,6635,66937
+NA,Estimated total,1,6725,68056
+NA,"Rate per 100,000 inhabitants",NA,276.1,2794.2
+"Port St. Lucie, FL M.S.A.",NA,461932,NA,NA
+NA,Includes Martin and St. Lucie Counties,NA,NA,NA
+NA,City of Port St. Lucie,182365,270,2419
+NA,Total area actually reporting,1,1196,8119
+NA,"Rate per 100,000 inhabitants",NA,258.9,1757.6
+"Prescott, AZ M.S.A.",NA,225038,NA,NA
+NA,Includes Yavapai County,NA,NA,NA
+NA,City of Prescott,42321,170,924
+NA,Total area actually reporting,1,653,4326
+NA,"Rate per 100,000 inhabitants",NA,290.2,1922.3
+"Providence-Warwick, RI-MA M.S.A.3, 4",NA,1612295,NA,NA
+NA,"Includes Bristol County, MA and Bristol, Kent, Newport, Providence, and Washington Counties, RI",NA,NA,NA
+NA,"City of Providence, RI3",179340,1031,NA
+NA,"City of Warwick, RI",81481,61,1625
+NA,Total area actually reporting,1,5079,NA
+NA,"Rate per 100,000 inhabitants",NA,315,NA
+"Provo-Orem, UT M.S.A.",NA,599314,NA,NA
+NA,Includes Juab and Utah Counties,NA,NA,NA
+NA,City of Provo,115739,149,2713
+NA,City of Orem,95640,65,2447
+NA,Total area actually reporting,1,465,10556
+NA,"Rate per 100,000 inhabitants",NA,77.6,1761.3
+"Pueblo, CO M.S.A.",NA,164337,NA,NA
+NA,Includes Pueblo County,NA,NA,NA
+NA,City of Pueblo,109927,1081,7473
+NA,Total area actually reporting,1,1117,8784
+NA,"Rate per 100,000 inhabitants",NA,679.7,5345.1
+"Punta Gorda, FL M.S.A.",NA,176234,NA,NA
+NA,Includes Charlotte County,NA,NA,NA
+NA,City of Punta Gorda,18466,12,212
+NA,Total area actually reporting,1,391,2671
+NA,"Rate per 100,000 inhabitants",NA,221.9,1515.6
+"Racine, WI M.S.A.",NA,194692,NA,NA
+NA,Includes Racine County,NA,NA,NA
+NA,City of Racine,77536,367,2287
+NA,Total area actually reporting,1,427,3748
+NA,"Rate per 100,000 inhabitants",NA,219.3,1925.1
+"Rapid City, SD M.S.A.",NA,145700,NA,NA
+NA,"Includes Custer, Meade, and Pennington Counties",NA,NA,NA
+NA,City of Rapid City,74573,536,2966
+NA,Total area actually reporting,1,721,3806
+NA,"Rate per 100,000 inhabitants",NA,494.9,2612.2
+"Reading, PA M.S.A.",NA,414729,NA,NA
+NA,Includes Berks County,NA,NA,NA
+NA,City of Reading,87834,597,2292
+NA,Total area actually reporting,0.991,1128,6740
+NA,Estimated total,1,1135,6795
+NA,"Rate per 100,000 inhabitants",NA,273.7,1638.4
+"Redding, CA M.S.A.",NA,178755,NA,NA
+NA,Includes Shasta County,NA,NA,NA
+NA,City of Redding,91918,720,3837
+NA,Total area actually reporting,1,1333,5561
+NA,"Rate per 100,000 inhabitants",NA,745.7,3111
+"Reno, NV M.S.A.",NA,457558,NA,NA
+NA,Includes Storey and Washoe Counties,NA,NA,NA
+NA,City of Reno,244554,1717,7933
+NA,Total area actually reporting,1,2354,11866
+NA,"Rate per 100,000 inhabitants",NA,514.5,2593.3
+"Riverside-San Bernardino-Ontario, CA M.S.A.",NA,4509084,NA,NA
+NA,Includes Riverside and San Bernardino Counties,NA,NA,NA
+NA,City of Riverside,325896,1724,11266
+NA,City of San Bernardino,217303,2878,9178
+NA,City of Ontario,172606,602,4718
+NA,City of Corona,166534,185,3693
+NA,City of Victorville,123438,748,3528
+NA,City of Temecula,114381,145,2587
+NA,City of Chino,87081,207,2151
+NA,City of Redlands,71485,225,2913
+NA,Total area actually reporting,1,17916,120270
+NA,"Rate per 100,000 inhabitants",NA,397.3,2667.3
+"Roanoke, VA M.S.A.",NA,314014,NA,NA
+NA,"Includes Botetourt, Craig, Franklin, and Roanoke Counties and Roanoke and Salem Cities",NA,NA,NA
+NA,City of Roanoke,99978,413,4195
+NA,Total area actually reporting,1,763,7110
+NA,"Rate per 100,000 inhabitants",NA,243,2264.2
+"Rochester, MN M.S.A.",NA,214994,NA,NA
+NA,"Includes Dodge, Fillmore, Olmsted, and Wabasha Counties",NA,NA,NA
+NA,City of Rochester,113306,242,2479
+NA,Total area actually reporting,1,296,3138
+NA,"Rate per 100,000 inhabitants",NA,137.7,1459.6
+"Rochester, NY M.S.A.",NA,1075149,NA,NA
+NA,"Includes Livingston, Monroe, Ontario, Orleans, Wayne, and Yates Counties",NA,NA,NA
+NA,City of Rochester,209643,1845,7812
+NA,Total area actually reporting,0.996,3012,21396
+NA,Estimated total,1,3019,21457
+NA,"Rate per 100,000 inhabitants",NA,280.8,1995.7
+"Rockford, IL M.S.A.",NA,337323,NA,NA
+NA,Includes Boone and Winnebago Counties,NA,NA,NA
+NA,City of Rockford,147361,2444,5565
+NA,Total area actually reporting,0.99,2932,8697
+NA,Estimated total,1,2939,8756
+NA,"Rate per 100,000 inhabitants",NA,871.3,2595.7
+"Rocky Mount, NC M.S.A.3",NA,147228,NA,NA
+NA,Includes Edgecombe and Nash Counties,NA,NA,NA
+NA,City of Rocky Mount3,55431,435,NA
+NA,Total area actually reporting,0.939,635,NA
+NA,Estimated total,1,660,NA
+NA,"Rate per 100,000 inhabitants",NA,448.3,NA
+"Rome, GA M.S.A.",NA,96420,NA,NA
+NA,Includes Floyd County,NA,NA,NA
+NA,City of Rome,36278,208,1398
+NA,Total area actually reporting,1,309,2765
+NA,"Rate per 100,000 inhabitants",NA,320.5,2867.7
+"Sacramento - Roseville - Arden - Arcade, CA M.S.A.",NA,2283312,NA,NA
+NA,"Includes El Dorado, Placer, Sacramento, and Yolo Counties",NA,NA,NA
+NA,City of Sacramento,495471,3549,15283
+NA,City of Roseville,132566,199,3316
+NA,City of Folsom,77245,76,1384
+NA,Total area actually reporting,1,9384,54595
+NA,"Rate per 100,000 inhabitants",NA,411,2391
+"Saginaw, MI M.S.A.",NA,191925,NA,NA
+NA,Includes Saginaw County,NA,NA,NA
+NA,City of Saginaw,48942,718,926
+NA,Total area actually reporting,1,1168,3346
+NA,"Rate per 100,000 inhabitants",NA,608.6,1743.4
+"Salem, OR M.S.A.",NA,416427,NA,NA
+NA,Includes Marion and Polk Counties,NA,NA,NA
+NA,City of Salem,166508,533,6661
+NA,Total area actually reporting,1,952,11947
+NA,"Rate per 100,000 inhabitants",NA,228.6,2868.9
+"Salinas, CA M.S.A.",NA,434506,NA,NA
+NA,Includes Monterey County,NA,NA,NA
+NA,City of Salinas,158729,1005,4742
+NA,Total area actually reporting,1,1822,10396
+NA,"Rate per 100,000 inhabitants",NA,419.3,2392.6
+"Salisbury, MD-DE M.S.A.",NA,397778,NA,NA
+NA,"Includes Sussex County, DE and Somerset, Wicomico, and Worcester Counties, MD",NA,NA,NA
+NA,"City of Salisbury, MD",33417,297,1695
+NA,Total area actually reporting,1,1609,10755
+NA,"Rate per 100,000 inhabitants",NA,404.5,2703.8
+"Salt Lake City, UT M.S.A.2",NA,1190065,NA,NA
+NA,Includes Salt Lake and Tooele Counties,NA,NA,NA
+NA,City of Salt Lake City,193918,1815,16551
+NA,Total area actually reporting,0.999,4885,54725
+NA,Estimated total,1,4885,54736
+NA,"Rate per 100,000 inhabitants",NA,410.5,4599.4
+"San Angelo, TX M.S.A.",NA,120833,NA,NA
+NA,Includes Irion and Tom Green Counties,NA,NA,NA
+NA,City of San Angelo,101870,371,4991
+NA,Total area actually reporting,1,403,5484
+NA,"Rate per 100,000 inhabitants",NA,333.5,4538.5
+"San Antonio-New Braunfels, TX M.S.A.2",NA,2426076,NA,NA
+NA,"Includes Atascosa, Bandera, Bexar, Comal, Guadalupe, Kendall, Medina, and Wilson Counties",NA,NA,NA
+NA,City of San Antonio,1498642,10754,77786
+NA,City of New Braunfels,73334,207,1721
+NA,Total area actually reporting,0.999,12767,99e3
+NA,Estimated total,1,12771,99029
+NA,"Rate per 100,000 inhabitants",NA,526.4,4081.9
+"San Diego-Carlsbad, CA M.S.A.",NA,3317259,NA,NA
+NA,Includes San Diego County,NA,NA,NA
+NA,City of San Diego,1413414,5332,28624
+NA,City of Carlsbad,115040,209,2188
+NA,Total area actually reporting,1,10959,61371
+NA,"Rate per 100,000 inhabitants",NA,330.4,1850.1
+"San Francisco-Oakland-Hayward, CA M.S.A.",NA,4688840,NA,NA
+NA,"Includes the Metropolitan Divisions of Oakland-Hayward-Berkeley, San Francisco-Redwood City-South San Francisco, and San Rafael",NA,NA,NA
+NA,City of San Francisco,871155,6190,47402
+NA,City of Oakland,424998,6059,23952
+NA,City of Hayward,161122,631,4641
+NA,City of Berkeley,122651,602,5420
+NA,City of San Leandro,91870,487,3530
+NA,City of Redwood City,87046,164,1503
+NA,City of San Ramon,76901,39,823
+NA,City of Pleasanton,81464,100,1604
+NA,City of Walnut Creek,69860,78,2120
+NA,City of South San Francisco,67995,149,1416
+NA,City of San Rafael,59435,249,1713
+NA,Total area actually reporting,1,22400,156988
+NA,"Rate per 100,000 inhabitants",NA,477.7,3348.1
+"Oakland-Hayward-Berkeley, CA M.D.",NA,2787325,NA,NA
+NA,Includes Alameda and Contra Costa Counties,NA,NA,NA
+NA,Total area actually reporting,1,14022,88683
+NA,"Rate per 100,000 inhabitants",NA,503.1,3181.7
+"San Francisco-Redwood City-South San Francisco, CA M.D.",NA,1640386,NA,NA
+NA,Includes San Francisco and San Mateo Counties,NA,NA,NA
+NA,Total area actually reporting,1,7903,63330
+NA,"Rate per 100,000 inhabitants",NA,481.8,3860.7
+"San Rafael, CA M.D.",NA,261129,NA,NA
+NA,Includes Marin County,NA,NA,NA
+NA,Total area actually reporting,1,475,4975
+NA,"Rate per 100,000 inhabitants",NA,181.9,1905.2
+"San Jose-Sunnyvale-Santa Clara, CA M.S.A.",NA,1991233,NA,NA
+NA,Includes San Benito and Santa Clara Counties,NA,NA,NA
+NA,City of San Jose,1041844,3887,24749
+NA,City of Sunnyvale,154108,158,2140
+NA,City of Santa Clara,128179,159,2814
+NA,City of Mountain View,81726,132,1776
+NA,City of Milpitas,79990,96,1791
+NA,City of Palo Alto,67317,73,1436
+NA,City of Cupertino,60948,71,997
+NA,Total area actually reporting,1,5578,43340
+NA,"Rate per 100,000 inhabitants",NA,280.1,2176.5
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA M.S.A.",NA,281827,NA,NA
+NA,Includes San Luis Obispo County,NA,NA,NA
+NA,City of San Luis Obispo,47774,178,2076
+NA,City of Paso Robles,31939,67,977
+NA,City of Arroyo Grande,18280,35,334
+NA,Total area actually reporting,1,1115,6687
+NA,"Rate per 100,000 inhabitants",NA,395.6,2372.7
+"Santa Cruz-Watsonville, CA M.S.A.",NA,274494,NA,NA
+NA,Includes Santa Cruz County,NA,NA,NA
+NA,City of Santa Cruz,64969,521,3610
+NA,City of Watsonville,54110,238,1738
+NA,Total area actually reporting,1,1101,9485
+NA,"Rate per 100,000 inhabitants",NA,401.1,3455.4
+"Santa Fe, NM M.S.A.",NA,148925,NA,NA
+NA,Includes Santa Fe County,NA,NA,NA
+NA,City of Santa Fe,84663,324,3234
+NA,Total area actually reporting,1,555,4267
+NA,"Rate per 100,000 inhabitants",NA,372.7,2865.2
+"Santa Maria-Santa Barbara, CA M.S.A.",NA,445908,NA,NA
+NA,Includes Santa Barbara County,NA,NA,NA
+NA,City of Santa Maria,106200,506,2638
+NA,City of Santa Barbara,92519,397,3060
+NA,Total area actually reporting,1,1527,9779
+NA,"Rate per 100,000 inhabitants",NA,342.4,2193.1
+"Santa Rosa, CA M.S.A.",NA,502249,NA,NA
+NA,Includes Sonoma County,NA,NA,NA
+NA,City of Santa Rosa,176383,658,3010
+NA,Total area actually reporting,1,1868,7794
+NA,"Rate per 100,000 inhabitants",NA,371.9,1551.8
+"Savannah, GA M.S.A.",NA,385219,NA,NA
+NA,"Includes Bryan, Chatham, and Effingham Counties",NA,NA,NA
+NA,City of Savannah-Chatham Metropolitan,241296,1174,8762
+NA,Total area actually reporting,1,1608,11968
+NA,"Rate per 100,000 inhabitants",NA,417.4,3106.8
+"Seattle-Tacoma-Bellevue, WA M.S.A.",NA,3808184,NA,NA
+NA,Includes the Metropolitan Divisions of Seattle-Bellevue-Everett and Tacoma-Lakewood,NA,NA,NA
+NA,City of Seattle,700313,4294,38433
+NA,City of Tacoma,209914,2e3,13749
+NA,City of Bellevue,142238,139,4635
+NA,City of Everett,108988,490,5608
+NA,City of Kent,128604,372,7527
+NA,City of Renton,101908,341,5767
+NA,City of Auburn,78400,329,3618
+NA,City of Lakewood,60153,449,2939
+NA,City of Redmond,61893,83,1936
+NA,Total area actually reporting,1,13449,148138
+NA,"Rate per 100,000 inhabitants",NA,353.2,3890
+"Seattle-Bellevue-Everett, WA M.D.",NA,2950845,NA,NA
+NA,Includes King and Snohomish Counties,NA,NA,NA
+NA,Total area actually reporting,1,9246,113792
+NA,"Rate per 100,000 inhabitants",NA,313.3,3856.3
+"Tacoma-Lakewood, WA M.D.",NA,857339,NA,NA
+NA,Includes Pierce County,NA,NA,NA
+NA,Total area actually reporting,1,4203,34346
+NA,"Rate per 100,000 inhabitants",NA,490.2,4006.1
+"Sebastian-Vero Beach, FL M.S.A.",NA,150236,NA,NA
+NA,Includes Indian River County,NA,NA,NA
+NA,City of Sebastian,24441,42,467
+NA,City of Vero Beach,16589,69,426
+NA,Total area actually reporting,1,345,2776
+NA,"Rate per 100,000 inhabitants",NA,229.6,1847.8
+"Sebring, FL M.S.A.",NA,99857,NA,NA
+NA,Includes Highlands County,NA,NA,NA
+NA,City of Sebring,10516,45,499
+NA,Total area actually reporting,1,327,2667
+NA,"Rate per 100,000 inhabitants",NA,327.5,2670.8
+"Sheboygan, WI M.S.A.",NA,115401,NA,NA
+NA,Includes Sheboygan County,NA,NA,NA
+NA,City of Sheboygan,48710,131,1063
+NA,Total area actually reporting,1,179,1650
+NA,"Rate per 100,000 inhabitants",NA,155.1,1429.8
+"Sherman-Denison, TX M.S.A.",NA,125998,NA,NA
+NA,Includes Grayson County,NA,NA,NA
+NA,City of Sherman,41139,127,1251
+NA,City of Denison,23237,110,557
+NA,Total area actually reporting,0.971,334,2416
+NA,Estimated total,1,344,2507
+NA,"Rate per 100,000 inhabitants",NA,273,1989.7
+"Shreveport-Bossier City, LA M.S.A.",NA,442787,NA,NA
+NA,"Includes Bossier, Caddo, De Soto, and Webster Parishes",NA,NA,NA
+NA,City of Shreveport,196467,1865,10721
+NA,City of  Bossier City,69384,585,3206
+NA,Total area actually reporting,0.997,2877,16786
+NA,Estimated total,1,2882,16828
+NA,"Rate per 100,000 inhabitants",NA,650.9,3800.5
+"Sierra Vista-Douglas, AZ M.S.A.",NA,125652,NA,NA
+NA,Includes Cochise County,NA,NA,NA
+NA,City of Sierra Vista,42988,85,1278
+NA,City of Douglas,16398,30,462
+NA,Total area actually reporting,0.896,392,2547
+NA,Estimated total,1,428,2906
+NA,"Rate per 100,000 inhabitants",NA,340.6,2312.7
+"Sioux City, IA-NE-SD M.S.A.",NA,168846,NA,NA
+NA,"Includes Plymouth and Woodbury Counties, IA; Dakota and Dixon Counties, NE; and Union County, SD",NA,NA,NA
+NA,"City of Sioux City, IA",82819,365,3247
+NA,Total area actually reporting,0.985,504,4455
+NA,Estimated total,1,507,4488
+NA,"Rate per 100,000 inhabitants",NA,300.3,2658
+"Sioux Falls, SD M.S.A.",NA,256120,NA,NA
+NA,"Includes Lincoln, McCook, Minnehaha, and Turner Counties",NA,NA,NA
+NA,City of Sioux Falls,175152,897,5563
+NA,Total area actually reporting,0.997,993,6429
+NA,Estimated total,1,994,6439
+NA,"Rate per 100,000 inhabitants",NA,388.1,2514.1
+"South Bend-Mishawaka, IN-MI M.S.A.2",NA,319742,NA,NA
+NA,"Includes St. Joseph County, IN and Cass County, MI",NA,NA,NA
+NA,"City of South Bend, IN2",101621,1037,5166
+NA,"City of Mishawaka, IN",48267,165,2523
+NA,Total area actually reporting,0.98,1463,9644
+NA,Estimated total,1,1481,9767
+NA,"Rate per 100,000 inhabitants",NA,463.2,3054.7
+"Spokane-Spokane Valley, WA M.S.A.2",NA,553915,NA,NA
+NA,"Includes Pend Oreille, Spokane,2 and Stevens Counties",NA,NA,NA
+NA,City of Spokane2,214028,1279,16455
+NA,City of Spokane Valley2,95923,271,5292
+NA,Total area actually reporting,0.999,1859,27718
+NA,Estimated total,1,1859,27727
+NA,"Rate per 100,000 inhabitants",NA,335.6,5005.6
+"Springfield, IL M.S.A.",NA,210256,NA,NA
+NA,Includes Menard and Sangamon Counties,NA,NA,NA
+NA,City of Springfield,116563,1301,5158
+NA,Total area actually reporting,0.98,1547,6339
+NA,Estimated total,1,1556,6411
+NA,"Rate per 100,000 inhabitants",NA,740.1,3049.1
+"Springfield, MA M.S.A.",NA,630942,NA,NA
+NA,Includes Hampden and Hampshire Counties,NA,NA,NA
+NA,City of Springfield,154102,1588,5073
+NA,Total area actually reporting,0.978,3351,14257
+NA,Estimated total,1,3393,14451
+NA,"Rate per 100,000 inhabitants",NA,537.8,2290.4
+"Springfield, MO M.S.A.",NA,459709,NA,NA
+NA,"Includes Christian, Dallas, Greene, Polk, and Webster Counties",NA,NA,NA
+NA,City of Springfield,168307,2251,14251
+NA,Total area actually reporting,1,2775,19475
+NA,"Rate per 100,000 inhabitants",NA,603.6,4236.4
+"Springfield, OH M.S.A.",NA,135331,NA,NA
+NA,Includes Clark County,NA,NA,NA
+NA,City of Springfield,59503,411,4040
+NA,Total area actually reporting,0.944,460,5259
+NA,Estimated total,1,471,5428
+NA,"Rate per 100,000 inhabitants",NA,348,4010.9
+"State College, PA M.S.A.",NA,161409,NA,NA
+NA,Includes Centre County,NA,NA,NA
+NA,City of State College,58119,39,491
+NA,Total area actually reporting,1,152,1719
+NA,"Rate per 100,000 inhabitants",NA,94.2,1065
+"Staunton-Waynesboro, VA M.S.A.",NA,119934,NA,NA
+NA,Includes Augusta County and Staunton and Waynesboro Cities,NA,NA,NA
+NA,City of Staunton,24399,41,528
+NA,City of Waynesboro,21464,40,486
+NA,Total area actually reporting,1,159,1746
+NA,"Rate per 100,000 inhabitants",NA,132.6,1455.8
+"St. Cloud, MN M.S.A.",NA,195241,NA,NA
+NA,Includes Benton and Stearns Counties,NA,NA,NA
+NA,City of St. Cloud,67341,293,2780
+NA,Total area actually reporting,1,388,4638
+NA,"Rate per 100,000 inhabitants",NA,198.7,2375.5
+"St. George, UT M.S.A.",NA,159745,NA,NA
+NA,Includes Washington County,NA,NA,NA
+NA,City of St. George,81755,160,1465
+NA,Total area actually reporting,0.981,265,2676
+NA,Estimated total,1,270,2757
+NA,"Rate per 100,000 inhabitants",NA,169,1725.9
+"St. Joseph, MO-KS M.S.A.",NA,126595,NA,NA
+NA,"Includes Doniphan County, KS and Andrew, Buchanan, and DeKalb Counties, MO",NA,NA,NA
+NA,"City of St. Joseph, MO",76577,428,4546
+NA,Total area actually reporting,1,532,5141
+NA,"Rate per 100,000 inhabitants",NA,420.2,4061
+"St. Louis, MO-IL M.S.A.2, 4",NA,2811156,NA,NA
+NA,"Includes Bond, Calhoun, Clinton, Jersey, Macoupin, Madison, Monroe, and St. Clair Counties, IL and Franklin, Jefferson, Lincoln, St. Charles, St. Louis, and Warren Counties and St. Louis City, MO",NA,NA,NA
+NA,"City of St. Louis, MO",314507,6017,18653
+NA,"City of St. Charles, MO",69364,138,1756
+NA,Total area actually reporting,0.985,NA,69303
+NA,Estimated total,1,NA,70004
+NA,"Rate per 100,000 inhabitants",NA,NA,2490.2
+"Stockton-Lodi, CA M.S.A.",NA,729104,NA,NA
+NA,Includes San Joaquin County,NA,NA,NA
+NA,City of Stockton,308348,4381,11634
+NA,City of Lodi,65067,351,1935
+NA,Total area actually reporting,1,6005,22629
+NA,"Rate per 100,000 inhabitants",NA,823.6,3103.7
+"Sumter, SC M.S.A.",NA,107671,NA,NA
+NA,Includes Sumter County,NA,NA,NA
+NA,City of Sumter,40864,282,1666
+NA,Total area actually reporting,1,636,3539
+NA,"Rate per 100,000 inhabitants",NA,590.7,3286.9
+"Syracuse, NY M.S.A.",NA,655589,NA,NA
+NA,"Includes Madison, Onondaga, and Oswego Counties",NA,NA,NA
+NA,City of Syracuse,143925,1063,4651
+NA,Total area actually reporting,1,1812,12838
+NA,"Rate per 100,000 inhabitants",NA,276.4,1958.2
+"Tallahassee, FL M.S.A.",NA,380448,NA,NA
+NA,"Includes Gadsden, Jefferson, Leon, and Wakulla Counties",NA,NA,NA
+NA,City of Tallahassee,191564,1686,11073
+NA,Total area actually reporting,0.98,2373,15347
+NA,Estimated total,1,2403,15581
+NA,"Rate per 100,000 inhabitants",NA,631.6,4095.4
+"Tampa-St. Petersburg-Clearwater, FL M.S.A.",NA,3020266,NA,NA
+NA,"Includes Hernando, Hillsborough, Pasco, and Pinellas Counties",NA,NA,NA
+NA,City of Tampa,375904,1906,7800
+NA,City of St. Petersburg,259510,1727,12804
+NA,City of Clearwater,113904,636,3755
+NA,City of Largo,81402,390,2989
+NA,Total area actually reporting,1,10294,70491
+NA,"Rate per 100,000 inhabitants",NA,340.8,2333.9
+"Texarkana, TX-AR M.S.A.",NA,149537,NA,NA
+NA,"Includes Little River and Miller Counties, AR and Bowie County, TX",NA,NA,NA
+NA,"City of Texarkana, TX",37442,314,1875
+NA,Total area actually reporting,1,669,4953
+NA,"Rate per 100,000 inhabitants",NA,447.4,3312.2
+"The Villages, FL M.S.A.",NA,124785,NA,NA
+NA,Includes Sumter County,NA,NA,NA
+NA,Total area actually reporting,1,292,1093
+NA,"Rate per 100,000 inhabitants",NA,234,875.9
+"Toledo, OH M.S.A.",NA,604373,NA,NA
+NA,"Includes Fulton, Lucas, and Wood Counties",NA,NA,NA
+NA,City of Toledo,278366,3319,11191
+NA,Total area actually reporting,0.928,3662,16577
+NA,Estimated total,1,3728,17540
+NA,"Rate per 100,000 inhabitants",NA,616.8,2902.2
+"Topeka, KS M.S.A.",NA,232459,NA,NA
+NA,"Includes Jackson, Jefferson, Osage, Shawnee, and Wabaunsee Counties",NA,NA,NA
+NA,City of Topeka,127166,711,7148
+NA,Total area actually reporting,0.977,899,8878
+NA,Estimated total,1,910,8984
+NA,"Rate per 100,000 inhabitants",NA,391.5,3864.8
+"Trenton, NJ M.S.A.",NA,370221,NA,NA
+NA,Includes Mercer County,NA,NA,NA
+NA,City of Trenton,83644,1127,2186
+NA,Total area actually reporting,1,1490,6585
+NA,"Rate per 100,000 inhabitants",NA,402.5,1778.7
+"Tucson, AZ M.S.A.",NA,1017936,NA,NA
+NA,Includes Pima County,NA,NA,NA
+NA,City of Tucson,533663,4245,31265
+NA,Total area actually reporting,0.994,5037,43274
+NA,Estimated total,1,5053,43432
+NA,"Rate per 100,000 inhabitants",NA,496.4,4266.7
+"Tulsa, OK M.S.A.",NA,984554,NA,NA
+NA,"Includes Creek, Okmulgee, Osage, Pawnee, Rogers, Tulsa, and Wagoner Counties",NA,NA,NA
+NA,City of Tulsa,405748,4444,23956
+NA,Total area actually reporting,1,5798,35669
+NA,"Rate per 100,000 inhabitants",NA,588.9,3622.9
+"Tuscaloosa, AL M.S.A.",NA,241294,NA,NA
+NA,"Includes Hale, Pickens, and Tuscaloosa Counties",NA,NA,NA
+NA,City of Tuscaloosa,99925,480,3732
+NA,Total area actually reporting,1,888,6726
+NA,"Rate per 100,000 inhabitants",NA,368,2787.5
+"Tyler, TX M.S.A.2, 3",NA,224848,NA,NA
+NA,Includes Smith County,NA,NA,NA
+NA,City of Tyler3,105044,429,NA
+NA,Total area actually reporting,0.991,731,NA
+NA,Estimated total,1,736,NA
+NA,"Rate per 100,000 inhabitants",NA,327.3,NA
+"Urban Honolulu, HI M.S.A.",NA,995572,NA,NA
+NA,Includes Honolulu County,NA,NA,NA
+NA,Total area actually reporting,1,3331,30592
+NA,"Rate per 100,000 inhabitants",NA,334.6,3072.8
+"Utica-Rome, NY M.S.A.",NA,292919,NA,NA
+NA,Includes Herkimer and Oneida Counties,NA,NA,NA
+NA,City of Utica,60879,382,2265
+NA,City of Rome,32345,52,619
+NA,Total area actually reporting,0.991,774,5495
+NA,Estimated total,1,779,5534
+NA,"Rate per 100,000 inhabitants",NA,265.9,1889.3
+"Valdosta, GA M.S.A.",NA,143315,NA,NA
+NA,"Includes Brooks, Echols, Lanier, and Lowndes Counties",NA,NA,NA
+NA,City of Valdosta,55880,205,3057
+NA,Total area actually reporting,0.995,456,4693
+NA,Estimated total,1,459,4719
+NA,"Rate per 100,000 inhabitants",NA,320.3,3292.7
+"Vallejo-Fairfield, CA M.S.A.",NA,437638,NA,NA
+NA,Includes Solano County,NA,NA,NA
+NA,City of Vallejo,122293,1053,4810
+NA,City of Fairfield,114521,476,2845
+NA,Total area actually reporting,1,2022,11719
+NA,"Rate per 100,000 inhabitants",NA,462,2677.8
+"Vineland-Bridgeton, NJ M.S.A.",NA,154814,NA,NA
+NA,Includes Cumberland County,NA,NA,NA
+NA,City of Vineland,60823,297,2412
+NA,City of Bridgeton,24982,225,952
+NA,Total area actually reporting,1,802,5632
+NA,"Rate per 100,000 inhabitants",NA,518,3637.9
+"Virginia Beach-Norfolk-Newport News, VA-NC M.S.A.",NA,1724733,NA,NA
+NA,"Includes Currituck and Gates Counties, NC and Gloucester, Isle of Wight, James City, Mathews, and York Counties and Chesapeake, Hampton, Newport News, Norfolk, Poquoson, Portsmouth, Suffolk, Virginia Beach, and Williamsburg Cities, VA",NA,NA,NA
+NA,"City of Virginia Beach, VA",453017,700,9858
+NA,"City of Norfolk, VA",245734,1616,9617
+NA,"City of Newport News, VA",181676,848,5579
+NA,"City of Hampton, VA",135504,442,4650
+NA,"City of Portsmouth, VA",95813,758,5373
+NA,Total area actually reporting,0.993,6054,48315
+NA,Estimated total,1,6072,48481
+NA,"Rate per 100,000 inhabitants",NA,352.1,2810.9
+"Visalia-Porterville, CA M.S.A.",NA,460141,NA,NA
+NA,Includes Tulare County,NA,NA,NA
+NA,City of Visalia,131186,480,4196
+NA,City of Porterville,56421,215,1315
+NA,Total area actually reporting,1,1624,11608
+NA,"Rate per 100,000 inhabitants",NA,352.9,2522.7
+"Waco, TX M.S.A.",NA,263878,NA,NA
+NA,Includes Falls and McLennan Counties,NA,NA,NA
+NA,City of Waco,133790,695,4882
+NA,Total area actually reporting,0.979,1104,7216
+NA,Estimated total,1,1119,7351
+NA,"Rate per 100,000 inhabitants",NA,424.1,2785.8
+"Walla Walla, WA M.S.A.",NA,64789,NA,NA
+NA,Includes Columbia and Walla Walla Counties,NA,NA,NA
+NA,City of Walla Walla,32326,122,1372
+NA,Total area actually reporting,1,162,2050
+NA,"Rate per 100,000 inhabitants",NA,250,3164.1
+"Warner Robins, GA M.S.A.",NA,189578,NA,NA
+NA,"Includes Houston, Peach, and Pulaski Counties",NA,NA,NA
+NA,City of Warner Robins,74419,494,4111
+NA,Total area actually reporting,1,857,6711
+NA,"Rate per 100,000 inhabitants",NA,452.1,3540
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.S.A.",NA,6152267,NA,NA
+NA,"Includes the Metropolitan Divisions of Silver Spring-Frederick-Rockville, MD and Washington-Arlington-Alexandria, DC-VA-MD-WV",NA,NA,NA
+NA,"City of Washington, D.C.",681170,7711,31661
+NA,"City of Alexandria, VA",155319,286,2798
+NA,"City of Frederick, MD",70316,343,1411
+NA,Total area actually reporting,0.886,16494,100386
+NA,Estimated total,1,18535,113381
+NA,"Rate per 100,000 inhabitants",NA,301.3,1842.9
+"Silver Spring-Frederick-Rockville, MD M.D.",NA,1293480,NA,NA
+NA,Includes Frederick and Montgomery Counties,NA,NA,NA
+NA,Total area actually reporting,1,2439,18777
+NA,"Rate per 100,000 inhabitants",NA,188.6,1451.7
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.D.",NA,4858787,NA,NA
+NA,"Includes District of Columbia; Calvert, Charles, and Prince George's Counties, MD; Arlington, Clarke, Culpeper, Fairfax, Fauquier, Loudoun, Prince William, Rappahannock, Spotsylvania, Stafford, and Warren Counties and Alexandria, Fairfax, Falls Church, Fredericksburg, Manassas, and Manassas Park Cities, VA; and Jefferson County, WV",NA,NA,NA
+NA,Total area actually reporting,0.856,14055,81609
+NA,Estimated total,1,16096,94604
+NA,"Rate per 100,000 inhabitants",NA,331.3,1947.1
+"Waterloo-Cedar Falls, IA M.S.A.",NA,170888,NA,NA
+NA,"Includes Black Hawk, Bremer, and Grundy Counties",NA,NA,NA
+NA,City of Waterloo,68470,507,2120
+NA,City of Cedar Falls,41651,66,708
+NA,Total area actually reporting,1,756,3386
+NA,"Rate per 100,000 inhabitants",NA,442.4,1981.4
+"Watertown-Fort Drum, NY M.S.A.",NA,117080,NA,NA
+NA,Includes Jefferson County,NA,NA,NA
+NA,City of Watertown,26765,181,1171
+NA,Total area actually reporting,1,281,2079
+NA,"Rate per 100,000 inhabitants",NA,240,1775.7
+"Wausau, WI M.S.A.2",NA,136010,NA,NA
+NA,Includes Marathon County,NA,NA,NA
+NA,City of Wausau,39091,114,959
+NA,Total area actually reporting,1,180,1787
+NA,"Rate per 100,000 inhabitants",NA,132.3,1313.9
+"Weirton-Steubenville, WV-OH M.S.A.",NA,119362,NA,NA
+NA,"Includes Jefferson County, OH and Brooke and Hancock Counties, WV",NA,NA,NA
+NA,"City of Weirton, WV",19067,22,209
+NA,"City of Steubenville, OH",18137,60,1085
+NA,Total area actually reporting,0.863,153,1691
+NA,Estimated total,1,190,2150
+NA,"Rate per 100,000 inhabitants",NA,159.2,1801.2
+"Wenatchee, WA M.S.A.",NA,117637,NA,NA
+NA,Includes Chelan and Douglas Counties,NA,NA,NA
+NA,City of Wenatchee,33920,88,1128
+NA,Total area actually reporting,1,169,2626
+NA,"Rate per 100,000 inhabitants",NA,143.7,2232.3
+"Wheeling, WV-OH M.S.A.",NA,142933,NA,NA
+NA,"Includes Belmont County, OH and Marshall and Ohio Counties, WV",NA,NA,NA
+NA,"City of Wheeling, WV",27486,266,669
+NA,Total area actually reporting,0.9,475,1878
+NA,Estimated total,1,500,2223
+NA,"Rate per 100,000 inhabitants",NA,349.8,1555.3
+"Wichita, KS M.S.A.7",NA,643764,NA,NA
+NA,"Includes Butler, Harvey, Kingman, Sedgwick, and Sumner Counties",NA,NA,NA
+NA,City of Wichita,391399,4136,21065
+NA,Total area actually reporting,0.992,4553,NA
+NA,Estimated total,1,4563,NA
+NA,"Rate per 100,000 inhabitants",NA,708.8,NA
+"Wichita Falls, TX M.S.A.",NA,150165,NA,NA
+NA,"Includes Archer, Clay, and Wichita Counties",NA,NA,NA
+NA,City of Wichita Falls,104685,445,3734
+NA,Total area actually reporting,0.977,535,4493
+NA,Estimated total,1,544,4576
+NA,"Rate per 100,000 inhabitants",NA,362.3,3047.3
+"Williamsport, PA M.S.A.",NA,115682,NA,NA
+NA,Includes Lycoming County,NA,NA,NA
+NA,City of Williamsport,29163,104,792
+NA,Total area actually reporting,1,238,1752
+NA,"Rate per 100,000 inhabitants",NA,205.7,1514.5
+"Wilmington, NC M.S.A.",NA,282695,NA,NA
+NA,Includes New Hanover and Pender Counties,NA,NA,NA
+NA,City of Wilmington,117852,759,4771
+NA,Total area actually reporting,0.991,1021,8270
+NA,Estimated total,1,1028,8348
+NA,"Rate per 100,000 inhabitants",NA,363.6,2953
+"Winchester, VA-WV M.S.A.",NA,134144,NA,NA
+NA,"Includes Frederick County and Winchester City, VA and Hampshire County, WV",NA,NA,NA
+NA,"City of Winchester, VA",27363,61,776
+NA,Total area actually reporting,0.997,185,1964
+NA,Estimated total,1,186,1977
+NA,"Rate per 100,000 inhabitants",NA,138.7,1473.8
+"Worcester, MA-CT M.S.A.4",NA,861261,NA,NA
+NA,"Includes Windham County, CT and Worcester County, MA",NA,NA,NA
+NA,"City of Worcester, MA",184595,1642,5358
+NA,Total area actually reporting,0.947,NA,13153
+NA,Estimated total,1,NA,13782
+NA,"Rate per 100,000 inhabitants",NA,NA,1600.2
+"Yakima, WA M.S.A.",NA,250717,NA,NA
+NA,Includes Yakima County,NA,NA,NA
+NA,City of Yakima,94111,496,4943
+NA,Total area actually reporting,1,751,9067
+NA,"Rate per 100,000 inhabitants",NA,299.5,3616.4
+"York-Hanover, PA M.S.A.",NA,443062,NA,NA
+NA,Includes York County,NA,NA,NA
+NA,City of York,44017,416,1408
+NA,City of Hanover,15537,23,418
+NA,Total area actually reporting,1,1039,7029
+NA,"Rate per 100,000 inhabitants",NA,234.5,1586.5
+"Yuba City, CA M.S.A.",NA,170558,NA,NA
+NA,Includes Sutter and Yuba Counties,NA,NA,NA
+NA,City of Yuba City,67198,272,2030
+NA,Total area actually reporting,1,678,4635
+NA,"Rate per 100,000 inhabitants",NA,397.5,2717.6
+"Aguadilla-Isabela, Puerto Rico M.S.A.",NA,309696,NA,NA
+NA,"Includes Aguada, Aguadilla, Anasco, Isabela, Lares, Moca, Rincon, San Sebastian, and Utuado Municipios",NA,NA,NA
+NA,Total area actually reporting,1,424,2030
+NA,"Rate per 100,000 inhabitants",NA,136.9,655.5
+"Arecibo, Puerto Rico M.S.A.",NA,185250,NA,NA
+NA,"Includes Arecibo, Camuy, Hatillo, and Quebradillas Municipios",NA,NA,NA
+NA,Total area actually reporting,1,314,1633
+NA,"Rate per 100,000 inhabitants",NA,169.5,881.5
+"Guayama, Puerto Rico M.S.A.",NA,77771,NA,NA
+NA,"Includes Arroyo, Guayama, and Patillas Municipios",NA,NA,NA
+NA,Total area actually reporting,1,182,614
+NA,"Rate per 100,000 inhabitants",NA,234,789.5
+"Mayaguez, Puerto Rico M.S.A.",NA,94038,NA,NA
+NA,Includes Hormigueros and Mayaguez Municipios,NA,NA,NA
+NA,Total area actually reporting,1,248,1137
+NA,"Rate per 100,000 inhabitants",NA,263.7,1209.1
+"Ponce, Puerto Rico M.S.A.",NA,309512,NA,NA
+NA,"Includes Guanica, Guyanilla, Juana Diaz, Penuelas, Ponce, Villalba, and Yauco Municipios",NA,NA,NA
+NA,Total area actually reporting,1,785,2557
+NA,"Rate per 100,000 inhabitants",NA,253.6,826.1
+"San German, Puerto Rico M.S.A.",NA,128279,NA,NA
+NA,"Includes Cabo Rojo, Lajas, Sabana Grande, and San German Municipios",NA,NA,NA
+NA,Total area actually reporting,1,117,450
+NA,"Rate per 100,000 inhabitants",NA,91.2,353.1
+"San Juan-Carolina-Caguas, Puerto Rico M.S.A.",NA,2157729,NA,NA
+NA,"Includes Aguas Buenas, Aibonito, Barceloneta, Barranquitas, Bayamon, Caguas, Canovanas, Carolina, Catano, Cayey, Ceiba, Ciales, Cidra, Comerio, Corozal, Dorado, Fajardo, Florida, Guaynabo, Gurabo, Humacao, Juncos, Las Piedras, Loiza, Luquillo, Manati, Maunabo, Morovis, Naguabo, Naranjito, Orocovis, Rio Grande, San Juan, San Lorenzo, Toa Alta, Toa Baja, Trujillo Alto, Vega Alta, Vega Baja, and Yabucoa Municipios",NA,NA,NA
+NA,Total area actually reporting,1,5292,25686
+NA,"Rate per 100,000 inhabitants",NA,245.3,1190.4

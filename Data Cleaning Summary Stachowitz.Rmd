@@ -55,10 +55,44 @@ names(crime_city) <- c("Metro_area", "Main_cities", "Population", "Violent_crime
 ### 5. Rearrange the data in the crime_city data set
 
 The crime city data set is broken down by city metro area but the actual data is further broken down by city. The total of the city data for each metro area needed to me moved up to the rows with the metro area and then the city data needed to be removed. I accomplished that by breaking the data set into 2 separate data sets, cleaning them, and then recombining the data.
+
 ```{r}
 CS_p1 <- filter(crime_city, !is.na(Metro_area))
 CS_p2 <- filter(crime_city, Main_cities == "Total area actually reporting")
 CS_p1 <- select(CS_p1, Metro_area, Population)
 CS_p2 <- select(CS_p2, Population:Property_crime)
 CS_main <- bind_cols(CS_p1, CS_p2)
+```
+
+### 5. Working on the Metro_area data set
+
+First, I mutated an additional column to the data set that put the metro areas into groups according to their size. Then I mutated two more columns that turned the crime rate into percentage of total crime for violent crime and property crime. Lastly, I constructed a histogram that plotted data points for the percentage of property crime.
+
+```{r}
+mutate(CS_main, City_Metro_Size = 
+	ifelse(Population %in% 0:10000, "Under 10,000",
+	ifelse(Population %in% 10001:24999, "10,000 - 24,999",
+	ifelse(Population %in% 25000:49999, "25,000 - 49,999",
+	ifelse(Population %in% 50000:99999, "50,000 - 99,999",
+	ifelse(Population %in% 100000:249999, "100,000 - 249,999",
+	ifelse(Population %in% 250000:499999, "250,000 - 499,999",
+	ifelse(Population %in% 500000:999999, "500,000 - 999,999", "Over 1,000,000"))))))))
+
+metro_test <- mutate(Metro_area, Percent_of_Prop_Crime = 100 * (Property_crime / (Property_crime + Violent_crime)), Percent_of_Vio_Crime = 100 * (Violent_crime / (Property_crime + Violent_crime)))
+
+# The color scale used in the plot
+BMI_fill <- scale_fill_brewer("BMI Category", palette = "Reds")
+
+# Theme to fix category display in faceted plot
+fix_strips <- theme(strip.text.y = element_text(angle = 0, hjust = 0, vjust = 0.1, size = 14),
+                    strip.background = element_blank(),
+                    legend.position = "none")
+
+# Histogram, add BMI_fill and customizations
+ggplot(metro_test, aes (x = Percent_of_Prop_Crime, fill= factor(City_Metro_Size))) +
+	geom_histogram(binwidth = 1) +
+	fix_strips +
+	BMI_fill +
+	facet_grid(City_Metro_Size ~ .) +
+	theme_classic()
 ```
